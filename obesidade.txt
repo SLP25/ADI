@@ -1,0 +1,22 @@
+Independent Variables
+1.	rowID: register id
+2.	Gender: sex of the person
+3.	Age: in years
+4.	Date_of_birth: date of birth (DD/MM/YYYY)
+5.	Height: in meters
+6.	Weight: in Kgs
+7.	family_history_with_overweight: Family history in obesity
+8.	FAVC: Frequent consumption of high caloric food
+9.	FCVC: Frequency of consumption of vegetables
+10.	NCP: Number of main meals - 1, 2, 3 or 4 meals
+11.	CAEC: Consumption of food between meals
+12.	Smoke: Does the person smoke
+13.	CH20: Consumption of water daily - 1 = less than a liter, 2 = 1–2 liters, 3 = more than 2 liters
+14.	SCC: Calories consumption monitoring - Yes/No
+15.	FAF: Physical activity frequency - 0 = none, 1 = 1 to 2 days, 2 = 2 to 4 days, 3 = 4 to 5 days
+16.	TUE: Time using technology devices - 0 = 0–2 hours, 1 = 3–5 hours, 2 = more than 5 hours
+17.	CALC: Consumption of alcohol
+18.	MTRANS: Transportation used - Public Transportation, Motorbike, Bike, Automobile and Walking
+
+Dependent Variables
+19.	NObeyesdad: Obesity level

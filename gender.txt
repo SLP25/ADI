@@ -1,0 +1,2 @@
+Male, Man, man
+Female, Woman, woman
