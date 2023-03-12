@@ -1,0 +1,16 @@
+2023-03-12 10:47:11,118 : WARN  : main :  : FontStore :  :  : Using the system default font for annotations: Font {139904201941040}
+2023-03-12 10:48:22,269 : WARN  : main :  : Node : String Replace (Dictionary) : 3:10 : No settings available
+2023-03-12 10:48:50,879 : WARN  : main :  : Node : String Replace (Dictionary) : 3:9 : No file at "/home/rui-oliveira02/Documents/Licenciatura/3ano/ADI/gender.txt"
+2023-03-12 10:50:43,546 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No settings available
+2023-03-12 10:51:05,811 : WARN  : main :  : Node : String Replace (Dictionary) : 3:9 : No file at "/home/rui-oliveira02/Documents/Licenciatura/3ano/ADI/gender.txt"
+2023-03-12 10:52:21,802 : WARN  : main :  : Node : String Replace (Dictionary) : 3:12 : No settings available
+2023-03-12 10:52:47,663 : WARN  : main :  : Node : String Replace (Dictionary) : 3:9 : No file at "/home/rui-oliveira02/Documents/Licenciatura/3ano/ADI/gender.txt"
+2023-03-12 10:53:46,429 : WARN  : KNIME-Worker-3-String Replace (Dictionary) 3:12 :  : Node : String Replace (Dictionary) : 3:9 : No file at "/home/rui-oliveira02/Documents/Licenciatura/3ano/ADI/gender.txt"
+2023-03-12 10:53:46,450 : WARN  : KNIME-Worker-4-String Replace (Dictionary) 3:11 :  : Node : String Replace (Dictionary) : 3:9 : No file at "/home/rui-oliveira02/Documents/Licenciatura/3ano/ADI/gender.txt"
+2023-03-12 10:53:46,475 : WARN  : KNIME-Worker-5-String Replace (Dictionary) 3:10 :  : Node : String Replace (Dictionary) : 3:9 : No file at "/home/rui-oliveira02/Documents/Licenciatura/3ano/ADI/gender.txt"
+2023-03-12 10:54:20,678 : WARN  : main :  : Node : String Replace (Dictionary) : 3:7:4 : No file at "/home/rui-oliveira02/Documents/Licenciatura/3ano/ADI/nobeyesdad.txt"
+2023-03-12 10:54:23,877 : WARN  : KNIME-Worker-3-String Replace (Dictionary) 3:9 :  : Node : String Replace (Dictionary) : 3:7:4 : No file at "/home/rui-oliveira02/Documents/Licenciatura/3ano/ADI/nobeyesdad.txt"
+2023-03-12 10:54:47,646 : WARN  : KNIME-Worker-3-String To Number 3:7:6 :  : AbstractStringToNumberNodeModel : String To Number : 3:7:6 : Values in 2111 cells could not be parsed, first error: The string "Normal_Weight" in cell [row "Row0", column "NObeyesdad"] can not be transformed into a number: For input string: "Normal_Weight"
+2023-03-12 10:54:47,647 : WARN  : KNIME-Worker-3-String To Number 3:7:6 :  : Node : String To Number : 3:7:6 : Problems occurred, see Console messages.
+2023-03-12 10:54:47,757 : WARN  : KNIME-Worker-4-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    NObeyesdad - 2111 missing value(s)

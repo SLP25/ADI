@@ -1,0 +1,4 @@
+/home/rui-oliveira02/Documents/Projetos/ADI/obesidade.txt
+/home/rui-oliveira02/Documents/Projetos/ADI/gender.txt
+/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt
+/home/rui-oliveira02/Documents/Projetos/ADI/smoke.txt

@@ -7,7 +7,7 @@
     </config>
     <config key="model">
         <entry key="target_column" type="xstring" value="NObeyesdad"/>
-        <entry key="dictionary_location" type="xstring" value="/home/rui-oliveira02/Documents/Licenciatura/3ano/ADI/nobeyesdad.txt"/>
+        <entry key="dictionary_location" type="xstring" value="/home/rui-oliveira02/Documents/Projetos/ADI/obesidade.txt"/>
         <entry key="appended_column" type="xstring" isnull="true" value=""/>
         <entry key="delimiter_in_dict" type="xchar" value=","/>
     </config>
@@ -52,6 +52,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="a2a82c80-887a-4004-ad1b-1253cb5acb7e"/>
+        <entry key="file_store_id" type="xstring" value="2498958b-0a76-44e5-9c09-b1d373977215"/>
     </config>
 </config>

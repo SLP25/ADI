@@ -1,0 +1,57 @@
+
+{
+    "version": "4.7.0.v202212010827",
+    "created": "2023-03-12 10:46",
+    "nodestats": {
+        "nodes": [
+            {
+                "id": "org.knime.base.node.preproc.stringreplacer.dict.SearchReplaceDictNodeFactory#String Replace (Dictionary)",
+                "nrexecs": 5,
+                "nrfails": 0,
+                "exectime": 195,
+                "nrcreated": 3,
+                "successor": "org.knime.base.node.preproc.stringreplacer.dict.SearchReplaceDictNodeFactory#String Replace (Dictionary)"
+            },
+            {
+                "id": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory#Column Filter",
+                "nrexecs": 0,
+                "nrfails": 0,
+                "exectime": 0,
+                "nrcreated": 0,
+                "successor": "org.knime.base.node.preproc.stringreplacer.dict.SearchReplaceDictNodeFactory#String Replace (Dictionary)"
+            },
+            {
+                "id": "org.knime.base.node.preproc.colconvert.stringtonumber2.StringToNumber2NodeFactory#String To Number",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 49,
+                "nrcreated": 0,
+                "successor": "n/a"
+            },
+            {
+                "id": "org.knime.dynamic.js.v30.DynamicJSNodeFactory#Bar Chart",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 133,
+                "nrcreated": 0,
+                "successor": "n/a"
+            }
+        ],
+        "metaNodes": {
+        },
+        "wrappedNodes": {
+        }
+    },
+    "uptime": 558105,
+    "workflowsOpened": 1,
+    "remoteWorkflowsOpened": 0,
+    "columnarStorageWorkflowsOpened": 0,
+    "workflowsImported": 0,
+    "workflowsExported": 0,
+    "webUIPerspectiveSwitches": 0,
+    "launches": 1,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 558105,
+    "crashes": 0,
+    "properlyShutDown": true
+}
