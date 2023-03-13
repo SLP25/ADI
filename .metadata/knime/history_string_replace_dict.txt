@@ -1,3 +1,4 @@
+/home/luismfp/Desktop/Uni/ADI/praticas/ADI/frequency.txt
 /home/rui-oliveira02/Documents/Projetos/ADI/obesidade.txt
 /home/rui-oliveira02/Documents/Projetos/ADI/gender.txt
 /home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt

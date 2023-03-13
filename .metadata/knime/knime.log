@@ -14,3 +14,172 @@
 2023-03-12 10:54:47,647 : WARN  : KNIME-Worker-3-String To Number 3:7:6 :  : Node : String To Number : 3:7:6 : Problems occurred, see Console messages.
 2023-03-12 10:54:47,757 : WARN  : KNIME-Worker-4-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
     NObeyesdad - 2111 missing value(s)
+2023-03-13 13:39:40,471 : ERROR : main :  : CEFWizardNodeView :  :  : Uncaught TypeError: Cannot read properties of undefined (reading 'values') (source: file:///tmp/knimeViewContainer75700/index_167871477953814067451539526971063.html; line: 1400)
+2023-03-13 13:48:52,156 : WARN  : KNIME-Worker-3-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    NObeyesdad - 2111 missing value(s)
+2023-03-13 13:52:58,783 : WARN  : main :  : Node : String Replacer : 3:13 : Selected column 'null' does not exist in input table
+2023-03-13 13:58:02,149 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 13:58:04,179 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 13:58:10,839 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 14:05:16,667 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 14:05:49,484 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 14:06:00,368 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 14:07:28,868 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 14:10:56,353 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 14:10:57,939 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 14:11:07,228 : WARN  : main :  : Node : String Replace (Dictionary) : 3:11 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/frequency.txt"
+2023-03-13 14:14:20,602 : WARN  : main :  : Node : String Replace (Dictionary) : 3:10 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/smoke.txt"
+2023-03-13 14:14:37,938 : WARN  : main :  : Node : String Replace (Dictionary) : 3:10 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/smoke.txt"
+2023-03-13 14:14:38,523 : WARN  : main :  : Node : String Replace (Dictionary) : 3:10 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/smoke.txt"
+2023-03-13 14:14:49,522 : WARN  : main :  : Node : String Replace (Dictionary) : 3:10 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/smoke.txt"
+2023-03-13 14:14:50,203 : WARN  : main :  : Node : String Replace (Dictionary) : 3:10 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/smoke.txt"
+2023-03-13 14:15:53,499 : WARN  : main :  : Node : String Replacer : 3:17 : Selected column 'null' does not exist in input table
+2023-03-13 14:16:19,368 : WARN  : main :  : Node : String Replace (Dictionary) : 3:9 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/gender.txt"
+2023-03-13 14:19:38,858 : WARN  : main :  : Node : String Replace (Dictionary) : 3:7:4 : No file at "/home/rui-oliveira02/Documents/Projetos/ADI/obesidade.txt"
+2023-03-13 14:22:35,175 : WARN  : main :  : Node : String Replacer : 3:7:7 : Selected column 'null' does not exist in input table
+2023-03-13 14:24:20,773 : WARN  : main :  : Node : String Replacer : 3:7:8 : Selected column 'null' does not exist in input table
+2023-03-13 14:24:21,354 : WARN  : main :  : Node : String Replacer : 3:7:8 : Selected column 'null' does not exist in input table
+2023-03-13 14:25:02,478 : WARN  : main :  : Node : String Replacer : 3:7:9 : Selected column 'null' does not exist in input table
+2023-03-13 14:25:50,623 : WARN  : main :  : Node : String Replacer : 3:7:10 : Selected column 'null' does not exist in input table
+2023-03-13 14:37:49,548 : WARN  : main :  : WrappedNodeDialog : String Replacer : 3:18:14 : failed to apply settings: Coding issue: Unclosed character class near index 11
+[woman|Woman
+           ^
+org.knime.core.node.InvalidSettingsException: Coding issue: Unclosed character class near index 11
+[woman|Woman
+           ^
+	at org.knime.core.node.Node.validateModelSettings(Node.java:698)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1184)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1000)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2060)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1140)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:672)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:644)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$6.widgetSelected(WrappedNodeDialog.java:510)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5794)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5025)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4477)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:199)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:957)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:864)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:846)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:835)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.performRequest(NodeContainerEditPart.java:399)
+	at org.eclipse.gef.tools.SelectEditPartTracker.performOpen(SelectEditPartTracker.java:194)
+	at org.eclipse.gef.tools.SelectEditPartTracker.handleDoubleClick(SelectEditPartTracker.java:137)
+	at org.knime.workbench.editor2.WorkflowSelectionDragEditPartsTracker.handleDoubleClick(WorkflowSelectionDragEditPartsTracker.java:126)
+	at org.eclipse.gef.tools.AbstractTool.mouseDoubleClick(AbstractTool.java:1069)
+	at org.eclipse.gef.tools.SelectionTool.mouseDoubleClick(SelectionTool.java:527)
+	at org.eclipse.gef.EditDomain.mouseDoubleClick(EditDomain.java:231)
+	at org.eclipse.gef.ui.parts.DomainEventDispatcher.dispatchMouseDoubleClicked(DomainEventDispatcher.java:291)
+	at org.eclipse.draw2d.LightweightSystem$EventHandler.mouseDoubleClick(LightweightSystem.java:518)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:200)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5794)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1529)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:5025)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4477)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:191)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+Caused by: java.util.regex.PatternSyntaxException: Unclosed character class near index 11
+[woman|Woman
+           ^
+	at java.base/java.util.regex.Pattern.error(Unknown Source)
+	at java.base/java.util.regex.Pattern.clazz(Unknown Source)
+	at java.base/java.util.regex.Pattern.sequence(Unknown Source)
+	at java.base/java.util.regex.Pattern.expr(Unknown Source)
+	at java.base/java.util.regex.Pattern.compile(Unknown Source)
+	at java.base/java.util.regex.Pattern.<init>(Unknown Source)
+	at java.base/java.util.regex.Pattern.compile(Unknown Source)
+	at org.knime.base.node.preproc.stringreplacer.StringReplacerNodeModel.createPattern(StringReplacerNodeModel.java:161)
+	at org.knime.base.node.preproc.stringreplacer.StringReplacerNodeModel.validateSettings(StringReplacerNodeModel.java:264)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:692)
+	... 58 more
+2023-03-13 14:48:48,059 : WARN  : main :  : Node : String To Number : 3:19:1 : No columns selected
+2023-03-13 14:48:56,381 : WARN  : main :  : Node : String To Number : 3:19:1 : No columns selected
+2023-03-13 14:49:53,528 : WARN  : KNIME-Worker-22-String To Number 3:19:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:19:1 : Values in 1375 cells could not be parsed, first error: The string "25,196214" in cell [row "Row498", column "Age"] can not be transformed into a number: For input string: "25,196214"
+2023-03-13 14:49:53,528 : WARN  : KNIME-Worker-22-String To Number 3:19:1 :  : Node : String To Number : 3:19:1 : Problems occurred, see Console messages.
+2023-03-13 14:49:54,162 : WARN  : KNIME-Worker-22-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    Age - 1375 missing value(s)
+2023-03-13 14:53:29,726 : WARN  : main :  : Node : Missing Value : 3:19:4 : The selected missing value handler (Rounded Mean) for column Age cannot handle columns of type String
+2023-03-13 14:53:38,751 : WARN  : AWT-EventQueue-0 :  : ColumnHandlingFactorySelectionPanel : Missing Value : 3:19:4 : get warnings during panel validation: [Some columns have an incompatible type for factory Rounded Mean (yellow borderd)]
+2023-03-13 14:53:48,272 : WARN  : AWT-EventQueue-0 :  : ColumnHandlingFactorySelectionPanel : Missing Value : 3:19:4 : get warnings during panel validation: [Some columns have an incompatible type for factory Rounded Mean (yellow borderd)]
+2023-03-13 14:53:58,028 : WARN  : AWT-EventQueue-0 :  : ColumnHandlingFactorySelectionPanel : Missing Value : 3:19:4 : get warnings during panel validation: [Some columns have an incompatible type for factory Rounded Mean (yellow borderd)]
+2023-03-13 14:55:36,856 : WARN  : KNIME-Worker-23-Round Double 3:19:3 :  : Node : Missing Value : 3:19:4 : The selected missing value handler (Rounded Mean) for column Age cannot handle columns of type String
+2023-03-13 14:55:38,727 : WARN  : AWT-EventQueue-0 :  : ColumnHandlingFactorySelectionPanel : Missing Value : 3:19:4 : get warnings during panel validation: [Some columns have an incompatible type for factory Rounded Mean (yellow borderd)]
+2023-03-13 14:56:22,794 : WARN  : KNIME-Worker-24-String To Number 3:19:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:19:1 : Values in 1375 cells could not be parsed, first error: The string "25,196214" in cell [row "Row498", column "Age"] can not be transformed into a number: For input string: "25,196214"
+2023-03-13 14:56:22,794 : WARN  : KNIME-Worker-24-String To Number 3:19:1 :  : Node : String To Number : 3:19:1 : Problems occurred, see Console messages.
+2023-03-13 14:58:11,328 : WARN  : KNIME-Worker-26-String To Number 3:19:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:19:1 : Values in 1375 cells could not be parsed, first error: The string "25,196214" in cell [row "Row498", column "Age"] can not be transformed into a number: For input string: "25,196214"
+2023-03-13 14:58:11,328 : WARN  : KNIME-Worker-26-String To Number 3:19:1 :  : Node : String To Number : 3:19:1 : Problems occurred, see Console messages.
+2023-03-13 14:59:12,780 : WARN  : KNIME-Worker-25-String To Number 3:19:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:19:1 : Values in 1375 cells could not be parsed, first error: The string "25,196214" in cell [row "Row498", column "Age"] can not be transformed into a number: For input string: "25,196214"
+2023-03-13 14:59:12,780 : WARN  : KNIME-Worker-25-String To Number 3:19:1 :  : Node : String To Number : 3:19:1 : Problems occurred, see Console messages.
+2023-03-13 14:59:12,972 : WARN  : KNIME-Worker-25-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    Age - 1375 missing value(s)
+2023-03-13 15:06:47,492 : WARN  : main :  : Node : Missing Value : 3:20:4 : The selected missing value handler (Rounded Mean) for column Age cannot handle columns of type String
+2023-03-13 15:06:48,158 : WARN  : main :  : Node : Missing Value : 3:20:4 : The selected missing value handler (Rounded Mean) for column Age cannot handle columns of type String
+2023-03-13 15:06:58,111 : WARN  : main :  : Node : Round Double : 3:20:3 : Column "Age" is not available.
+2023-03-13 15:07:40,727 : WARN  : KNIME-Worker-32-String To Number 3:20:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:20:1 : Values in 2111 cells could not be parsed, first error: The string "1,62" in cell [row "Row0", column "Height"] can not be transformed into a number: For input string: "1,62"
+2023-03-13 15:07:40,727 : WARN  : KNIME-Worker-32-String To Number 3:20:1 :  : Node : String To Number : 3:20:1 : Problems occurred, see Console messages.
+2023-03-13 15:08:01,073 : WARN  : KNIME-Worker-31-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    Height - 2111 missing value(s)
+2023-03-13 15:10:44,296 : WARN  : KNIME-Worker-35-String To Number 3:20:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:20:1 : Values in 2111 cells could not be parsed, first error: The string "1,62" in cell [row "Row0", column "Height"] can not be transformed into a number: For input string: "1,62"
+2023-03-13 15:10:44,297 : WARN  : KNIME-Worker-35-String To Number 3:20:1 :  : Node : String To Number : 3:20:1 : Problems occurred, see Console messages.
+2023-03-13 15:10:44,457 : WARN  : KNIME-Worker-35-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    Height - 2111 missing value(s)
+2023-03-13 15:11:26,183 : WARN  : KNIME-Worker-34-String To Number 3:20:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:20:1 : Values in 2111 cells could not be parsed, first error: The string "1,62" in cell [row "Row0", column "Height"] can not be transformed into a number: For input string: "1,62"
+2023-03-13 15:11:26,183 : WARN  : KNIME-Worker-34-String To Number 3:20:1 :  : Node : String To Number : 3:20:1 : Problems occurred, see Console messages.
+2023-03-13 15:11:26,325 : WARN  : KNIME-Worker-34-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    Height - 2111 missing value(s)
+2023-03-13 15:12:59,279 : WARN  : KNIME-Worker-37-String To Number 3:19:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:19:1 : Values in 1375 cells could not be parsed, first error: The string "25,196214" in cell [row "Row498", column "Age"] can not be transformed into a number: For input string: "25,196214"
+2023-03-13 15:12:59,279 : WARN  : KNIME-Worker-37-String To Number 3:19:1 :  : Node : String To Number : 3:19:1 : Problems occurred, see Console messages.
+2023-03-13 15:12:59,324 : WARN  : KNIME-Worker-37-String To Number 3:20:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:20:1 : Values in 2111 cells could not be parsed, first error: The string "1,62" in cell [row "Row0", column "Height"] can not be transformed into a number: For input string: "1,62"
+2023-03-13 15:12:59,325 : WARN  : KNIME-Worker-37-String To Number 3:20:1 :  : Node : String To Number : 3:20:1 : Problems occurred, see Console messages.
+2023-03-13 15:12:59,474 : WARN  : KNIME-Worker-37-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    Height - 2111 missing value(s)
+2023-03-13 15:16:55,039 : WARN  : KNIME-Worker-40-String To Number 3:20:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:20:1 : Values in 2111 cells could not be parsed, first error: The string "1,62" in cell [row "Row0", column "Height"] can not be transformed into a number: For input string: "1,62"
+2023-03-13 15:16:55,040 : WARN  : KNIME-Worker-40-String To Number 3:20:1 :  : Node : String To Number : 3:20:1 : Problems occurred, see Console messages.
+2023-03-13 15:16:56,300 : WARN  : KNIME-Worker-41-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    Height - 2111 missing value(s)
+2023-03-13 15:17:34,215 : WARN  : KNIME-Worker-41-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    Height - 2111 missing value(s)
+2023-03-13 15:18:26,758 : WARN  : KNIME-Worker-42-String To Number 3:20:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:20:1 : Values in 2111 cells could not be parsed, first error: The string "1,62" in cell [row "Row0", column "Height"] can not be transformed into a number: For input string: "1,62"
+2023-03-13 15:18:26,759 : WARN  : KNIME-Worker-42-String To Number 3:20:1 :  : Node : String To Number : 3:20:1 : Problems occurred, see Console messages.
+2023-03-13 15:18:26,896 : WARN  : KNIME-Worker-42-Bar Chart 3:8 :  : Node : Bar Chart : 3:8 : The following data columns have missing values, which were ignored during the aggregation:
+    Height - 2111 missing value(s)
+2023-03-13 15:26:03,916 : WARN  : main :  : Node : Round Double : 3:21:3 : Column "Age" is not available.
+2023-03-13 15:26:04,841 : WARN  : main :  : Node : Round Double : 3:21:3 : Column "Age" is not available.
+2023-03-13 15:59:04,072 : WARN  : main :  : Node : String Manipulation : 3:22:1 : No expression has been set.
+2023-03-13 16:06:10,452 : WARN  : main :  : Node : String Replacer : 3:22:2 : Selected column 'null' does not exist in input table
+2023-03-13 16:30:33,336 : WARN  : main :  : Node : Round Double : 3:23:3 : Column "Weight" is not available.
+2023-03-13 16:30:34,160 : WARN  : main :  : Node : Round Double : 3:23:3 : Column "Weight" is not available.
+2023-03-13 16:55:50,716 : WARN  : main :  : Node : Round Double : 3:24:3 : Column "Weight" is not available.
+2023-03-13 16:55:51,305 : WARN  : main :  : Node : Round Double : 3:24:3 : Column "Weight" is not available.
+2023-03-13 17:05:13,144 : WARN  : main :  : Node : Round Double : 3:25:3 : Column "Weight" is not available.
+2023-03-13 17:05:13,748 : WARN  : main :  : Node : Round Double : 3:25:3 : Column "Weight" is not available.
+2023-03-13 17:09:12,026 : WARN  : main :  : Node : Round Double : 3:26:3 : Column "FAF" is not available.
+2023-03-13 17:09:12,614 : WARN  : main :  : Node : Round Double : 3:26:3 : Column "FAF" is not available.
