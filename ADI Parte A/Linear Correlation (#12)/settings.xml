@@ -58,10 +58,10 @@
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Correlation between attributes."/>
         <entry key="bgcolor" type="xint" value="16777215"/>
-        <entry key="x-coordinate" type="xint" value="979"/>
-        <entry key="y-coordinate" type="xint" value="639"/>
-        <entry key="width" type="xint" value="203"/>
-        <entry key="height" type="xint" value="18"/>
+        <entry key="x-coordinate" type="xint" value="1501"/>
+        <entry key="y-coordinate" type="xint" value="1179"/>
+        <entry key="width" type="xint" value="198"/>
+        <entry key="height" type="xint" value="17"/>
         <entry key="alignment" type="xstring" value="CENTER"/>
         <entry key="borderSize" type="xint" value="0"/>
         <entry key="borderColor" type="xint" value="16777215"/>
@@ -122,6 +122,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="83c1cda9-51bc-4791-a914-240bbcbde472"/>
+        <entry key="file_store_id" type="xstring" value="2b9dcf73-c0d7-445d-aafb-82dfbca33585"/>
     </config>
 </config>
