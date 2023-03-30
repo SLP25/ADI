@@ -1760,3 +1760,6 @@ The covariance matrix could not be calculated because the observed fisher inform
 2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : No aggregation column defined
 2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : No aggregation column defined
 2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : Please select at least one group or aggregation column
+2023-03-30 14:34:16,220 : WARN  : KNIME-Worker-5-String To Number 4:19:1 :  : AbstractStringToNumberNodeModel : String To Number : 4:19:1 : Values in 1375 cells could not be parsed, first error: The string "25,196214" in cell [row "Row498", column "Age"] can not be transformed into a number: For input string: "25,196214"
+2023-03-30 14:34:16,223 : WARN  : KNIME-Worker-5-String To Number 4:19:1 :  : Node : String To Number : 4:19:1 : Problems occurred, see Console messages.
+2023-03-30 14:35:17,661 : WARN  : KNIME-Worker-3-Scorer 4:27 :  : Node : Scorer : 4:27 : There were missing values in the reference or in the prediction class columns.

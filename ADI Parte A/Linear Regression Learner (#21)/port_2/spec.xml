@@ -76,79 +76,79 @@
                 <config key="10">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Land"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Jeep"/>
                     </config>
                 </config>
                 <config key="11">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Mahindra"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Land"/>
                     </config>
                 </config>
                 <config key="12">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Maruti"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Mahindra"/>
                     </config>
                 </config>
                 <config key="13">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Mercedes"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Maruti"/>
                     </config>
                 </config>
                 <config key="14">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Mini"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Mercedes"/>
                     </config>
                 </config>
                 <config key="15">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Mitsubishi"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Mini"/>
                     </config>
                 </config>
                 <config key="16">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Nissan"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Mitsubishi"/>
                     </config>
                 </config>
                 <config key="17">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Renault"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Nissan"/>
                     </config>
                 </config>
                 <config key="18">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Skoda"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Renault"/>
                     </config>
                 </config>
                 <config key="19">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Tata"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Skoda"/>
                     </config>
                 </config>
                 <config key="20">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Toyota"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Tata"/>
                     </config>
                 </config>
                 <config key="21">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Volkswagen"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Toyota"/>
                     </config>
                 </config>
                 <config key="22">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="Company name=Volvo"/>
+                        <entry key="StringCell" type="xstring" value="Company name=Volkswagen"/>
                     </config>
                 </config>
                 <config key="23">
@@ -252,13 +252,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="-1082586.5696076804"/>
+                    <entry key="DoubleCell" type="xdouble" value="-7733844.380222707"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="1093620.0951850556"/>
+                    <entry key="DoubleCell" type="xdouble" value="916194.4979085932"/>
                 </config>
             </config>
         </config>
@@ -277,13 +277,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.5762146506548321"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.21561056151422517"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="1.115950275414393E7"/>
+                    <entry key="DoubleCell" type="xdouble" value="4318023.414772916"/>
                 </config>
             </config>
         </config>
@@ -302,13 +302,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="-3.7364912290043475"/>
+                    <entry key="DoubleCell" type="xdouble" value="-12.251426687114527"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="13.31378641751524"/>
+                    <entry key="DoubleCell" type="xdouble" value="28.167120610165163"/>
                 </config>
             </config>
         </config>
@@ -333,7 +333,7 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="0.9584334835044888"/>
+                    <entry key="DoubleCell" type="xdouble" value="0.9842499669742386"/>
                 </config>
             </config>
         </config>
