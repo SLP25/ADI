@@ -1536,3 +1536,227 @@ java.lang.IllegalArgumentException: No column selected for category values.
 	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
 	at org.knime.core.util.ThreadPool$MyFuture.run(ThreadPool.java:123)
 	at org.knime.core.util.ThreadPool$Worker.run(ThreadPool.java:246)
+2023-03-28 17:31:16,159 : WARN  : main :  : Node : Partitioning : 3:16 : No sampling method selected
+2023-03-28 17:34:08,651 : WARN  : main :  : Node : Value Counter : 3:17 : No column selected
+2023-03-28 18:51:58,502 : WARN  : main :  : Node : Numeric Binner : 3:16 : No column select for binning.
+2023-03-28 18:56:33,525 : WARN  : main :  : Node : Numeric Binner : 3:16 : No column select for binning.
+2023-03-28 18:57:33,715 : WARN  : main :  : Node : Numeric Binner : 3:16 : No column select for binning.
+2023-03-28 18:59:19,247 : WARN  : main :  : Node : Partitioning : 3:17 : No sampling method selected
+2023-03-28 19:00:05,824 : WARN  : main :  : Node : Decision Tree Learner : 3:18 : Guessing target column: "Price [Binned]".
+2023-03-28 19:00:32,887 : WARN  : main :  : Node : Scorer : 3:20 : No columns selected yet.
+2023-03-28 19:00:40,600 : WARN  : KNIME-Worker-15-Decision Tree Predictor 3:19 :  : Node : Scorer : 3:20 : No columns selected yet.
+2023-03-28 19:05:53,471 : WARN  : KNIME-Worker-16-Logistic Regression Learner 3:18 :  : Node : Logistic Regression Learner : 3:18 : Column "Name of car" has too many different values - will be ignored during training (enforce inclusion by using a domain calculator node before)
+The algorithm did not reach convergence after the specified number of epochs. Setting the epoch limit higher might result in a better model.
+The covariance matrix could not be calculated because the observed fisher information matrix was singular. Did you properly normalize the numerical features?
+2023-03-28 19:06:05,218 : WARN  : main :  : Node : Scorer : 3:20 : No columns selected yet.
+2023-03-28 19:06:31,645 : WARN  : main :  : Node : Numeric Scorer : 3:20 : No columns selected for reference
+2023-03-28 19:07:45,338 : WARN  : main :  : Node : Logistic Regression Predictor : 3:19 : This node does not support numerical targets. Please check whether this is the correct predictor node for your model.
+2023-03-28 19:07:50,118 : WARN  : main :  : Node : Logistic Regression Predictor : 3:19 : This node does not support numerical targets. Please check whether this is the correct predictor node for your model.
+2023-03-28 19:07:50,433 : WARN  : main :  : Node : Logistic Regression Predictor : 3:19 : This node does not support numerical targets. Please check whether this is the correct predictor node for your model.
+2023-03-28 19:08:36,580 : WARN  : KNIME-Worker-32-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:08:36,658 : WARN  : KNIME-Worker-32-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:09:34,473 : WARN  : KNIME-Worker-43-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:09:34,507 : WARN  : KNIME-Worker-43-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:09:43,414 : WARN  : KNIME-Worker-44-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:09:43,418 : WARN  : KNIME-Worker-44-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:09:56,200 : WARN  : KNIME-Worker-42-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : not enough data (40 rows) for this many predictors (53 predictors)
+2023-03-28 19:10:51,797 : WARN  : KNIME-Worker-40-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:10:51,809 : WARN  : KNIME-Worker-40-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:13:12,251 : WARN  : KNIME-Worker-50-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:13:12,259 : WARN  : KNIME-Worker-50-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:13:35,171 : WARN  : KNIME-Worker-61-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:13:35,176 : WARN  : KNIME-Worker-61-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:13:40,785 : WARN  : KNIME-Worker-56-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:13:40,793 : WARN  : KNIME-Worker-56-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:14:11,192 : WARN  : main :  : Node : Color Manager : 3:8 : Column "Fuel_type" has no nominal values set: execute predecessor or add Binner.
+2023-03-28 19:14:14,981 : WARN  : KNIME-Worker-53-Missing Value 3:5 :  : Node : Missing Value : 3:5 : The current settings use missing value handling methods that cannot be represented in PMML 4.2
+2023-03-28 19:14:15,137 : WARN  : KNIME-Worker-55-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:14:15,145 : WARN  : KNIME-Worker-55-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:14:22,869 : WARN  : KNIME-Worker-58-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:14:22,877 : WARN  : KNIME-Worker-58-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:14:36,940 : WARN  : KNIME-Worker-56-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:14:36,944 : WARN  : KNIME-Worker-56-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:14:44,638 : WARN  : KNIME-Worker-62-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:14:44,646 : WARN  : KNIME-Worker-62-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:15:00,843 : WARN  : KNIME-Worker-51-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:15:00,850 : WARN  : KNIME-Worker-51-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:17:05,909 : WARN  : KNIME-Worker-77-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:17:05,916 : WARN  : KNIME-Worker-77-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:17:11,417 : WARN  : KNIME-Worker-66-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:17:11,422 : WARN  : KNIME-Worker-66-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:22:23,589 : WARN  : KNIME-Worker-64-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:22:23,593 : WARN  : KNIME-Worker-64-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:22:27,878 : WARN  : KNIME-Worker-74-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:22:27,882 : WARN  : KNIME-Worker-74-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:22:32,491 : WARN  : KNIME-Worker-74-Linear Regression Learner 3:21 :  : LinReg2Learner : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-28 19:22:32,495 : WARN  : KNIME-Worker-74-Linear Regression Learner 3:21 :  : Node : Linear Regression Learner : 3:21 : Column "Name of car" has too many different values - will be ignored during training
+2023-03-30 10:35:08,347 : WARN  : KNIME-Worker-0-Scorer 4:27 :  : Node : Scorer : 4:27 : There were missing values in the reference or in the prediction class columns.
+2023-03-30 10:49:00,072 : WARN  : main :  : Node : GroupBy : 3:24 : No grouping column included. Aggregate complete table.
+2023-03-30 10:49:00,073 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:00,073 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:00,073 : WARN  : main :  : Node : GroupBy : 3:24 : Please select at least one group or aggregation column
+2023-03-30 10:49:08,295 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:08,296 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:08,645 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:08,645 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:44,525 : WARN  : main :  : Node : GroupBy : 3:24 : No grouping column included. Aggregate complete table.
+2023-03-30 10:49:44,526 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:44,526 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:44,527 : WARN  : main :  : Node : GroupBy : 3:24 : Please select at least one group or aggregation column
+2023-03-30 10:49:52,886 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:52,887 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:53,415 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:53,416 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:53,657 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 10:49:53,658 : WARN  : main :  : Node : GroupBy : 3:24 : No aggregation column defined
+2023-03-30 11:02:31,068 : WARN  : main :  : WrappedNodeDialog : Partitioning : 3:25 : failed to apply settings: No class column for stratified sampling selected
+org.knime.core.node.InvalidSettingsException: No class column for stratified sampling selected
+	at org.knime.base.node.preproc.sample.AbstractSamplingNodeModel.validateSettings(AbstractSamplingNodeModel.java:120)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:692)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1184)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1000)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2060)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1140)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:672)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:644)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$6.widgetSelected(WrappedNodeDialog.java:510)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:199)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:957)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:864)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:846)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:835)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.performRequest(NodeContainerEditPart.java:399)
+	at org.eclipse.gef.tools.SelectEditPartTracker.performOpen(SelectEditPartTracker.java:194)
+	at org.eclipse.gef.tools.SelectEditPartTracker.handleDoubleClick(SelectEditPartTracker.java:137)
+	at org.knime.workbench.editor2.WorkflowSelectionDragEditPartsTracker.handleDoubleClick(WorkflowSelectionDragEditPartsTracker.java:126)
+	at org.eclipse.gef.tools.AbstractTool.mouseDoubleClick(AbstractTool.java:1069)
+	at org.eclipse.gef.tools.SelectionTool.mouseDoubleClick(SelectionTool.java:527)
+	at org.eclipse.gef.EditDomain.mouseDoubleClick(EditDomain.java:231)
+	at org.eclipse.gef.ui.parts.DomainEventDispatcher.dispatchMouseDoubleClicked(DomainEventDispatcher.java:291)
+	at org.eclipse.draw2d.LightweightSystem$EventHandler.mouseDoubleClick(LightweightSystem.java:518)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:200)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:191)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+2023-03-30 11:02:32,976 : WARN  : main :  : WrappedNodeDialog : Partitioning : 3:25 : failed to apply settings: No class column for stratified sampling selected
+org.knime.core.node.InvalidSettingsException: No class column for stratified sampling selected
+	at org.knime.base.node.preproc.sample.AbstractSamplingNodeModel.validateSettings(AbstractSamplingNodeModel.java:120)
+	at org.knime.core.node.Node.validateModelSettings(Node.java:692)
+	at org.knime.core.node.workflow.NativeNodeContainer.performValidateSettings(NativeNodeContainer.java:1184)
+	at org.knime.core.node.workflow.SingleNodeContainer.validateSettings(SingleNodeContainer.java:1000)
+	at org.knime.core.node.workflow.WorkflowManager.loadNodeSettings(WorkflowManager.java:2060)
+	at org.knime.core.node.workflow.NodeContainer.applySettingsFromDialog(NodeContainer.java:1140)
+	at org.knime.core.ui.wrapper.NodeContainerWrapper.applySettingsFromDialog(NodeContainerWrapper.java:264)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.callApplySettingsFromDialog(WrappedNodeDialog.java:672)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doApply(WrappedNodeDialog.java:644)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.doOK(WrappedNodeDialog.java:559)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog$5.widgetSelected(WrappedNodeDialog.java:495)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:252)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.knime.workbench.ui.wrapper.WrappedNodeDialog.open(WrappedNodeDialog.java:199)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:957)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:864)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openNodeDialog(NodeContainerEditPart.java:846)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.openDialog(NodeContainerEditPart.java:835)
+	at org.knime.workbench.editor2.editparts.NodeContainerEditPart.performRequest(NodeContainerEditPart.java:399)
+	at org.eclipse.gef.tools.SelectEditPartTracker.performOpen(SelectEditPartTracker.java:194)
+	at org.eclipse.gef.tools.SelectEditPartTracker.handleDoubleClick(SelectEditPartTracker.java:137)
+	at org.knime.workbench.editor2.WorkflowSelectionDragEditPartsTracker.handleDoubleClick(WorkflowSelectionDragEditPartsTracker.java:126)
+	at org.eclipse.gef.tools.AbstractTool.mouseDoubleClick(AbstractTool.java:1069)
+	at org.eclipse.gef.tools.SelectionTool.mouseDoubleClick(SelectionTool.java:527)
+	at org.eclipse.gef.EditDomain.mouseDoubleClick(EditDomain.java:231)
+	at org.eclipse.gef.ui.parts.DomainEventDispatcher.dispatchMouseDoubleClicked(DomainEventDispatcher.java:291)
+	at org.eclipse.draw2d.LightweightSystem$EventHandler.mouseDoubleClick(LightweightSystem.java:518)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:200)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4251)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4068)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.knime.product.rcp.KNIMEApplication.start(KNIMEApplication.java:191)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+2023-03-30 11:10:24,801 : WARN  : KNIME-Worker-11-Logistic Regression Learner 3:29 :  : Node : Logistic Regression Learner : 3:29 : Column "Name of car" has too many different values - will be ignored during training (enforce inclusion by using a domain calculator node before)
+The algorithm did not reach convergence after the specified number of epochs. Setting the epoch limit higher might result in a better model.
+The covariance matrix could not be calculated because the observed fisher information matrix was singular. Did you properly normalize the numerical features?
+2023-03-30 11:10:31,238 : WARN  : main :  : Node : Numeric Scorer : 3:26 : No such column in input table: Prediction (Price)
+2023-03-30 11:11:52,975 : WARN  : main :  : Node : Scorer : 3:31 : No columns selected yet.
+2023-03-30 11:11:58,091 : WARN  : KNIME-Worker-24-Logistic Regression Learner 3:29 :  : Node : Logistic Regression Learner : 3:29 : The algorithm did not reach convergence after the specified number of epochs. Setting the epoch limit higher might result in a better model.
+The covariance matrix could not be calculated because the observed fisher information matrix was singular. Did you properly normalize the numerical features?
+2023-03-30 11:13:13,221 : WARN  : main :  : Node : Logistic Regression Learner : 3:29 : The target column "Price [Binned]" has one value, only. At least two target categories are expected.
+2023-03-30 11:13:15,978 : WARN  : KNIME-Worker-29-Logistic Regression Learner 3:29 :  : Node : Logistic Regression Learner : 3:29 : The algorithm did not reach convergence after the specified number of epochs. Setting the epoch limit higher might result in a better model.
+The covariance matrix could not be calculated because the observed fisher information matrix was singular. Did you properly normalize the numerical features?
+2023-03-30 11:13:58,805 : WARN  : KNIME-Worker-37-Logistic Regression Learner 3:29 :  : Node : Logistic Regression Learner : 3:29 : The algorithm did not reach convergence after the specified number of epochs. Setting the epoch limit higher might result in a better model.
+The covariance matrix could not be calculated because the observed fisher information matrix was singular. Did you properly normalize the numerical features?
+2023-03-30 11:14:31,112 : WARN  : main :  : Node : Decision Tree Learner : 3:32 : Guessing target column: "Price [Binned]".
+2023-03-30 11:32:17,889 : WARN  : main :  : Node : GroupBy : 3:36 : No grouping column included. Aggregate complete table.
+2023-03-30 11:32:17,890 : WARN  : main :  : Node : GroupBy : 3:36 : No aggregation column defined
+2023-03-30 11:32:17,890 : WARN  : main :  : Node : GroupBy : 3:36 : No aggregation column defined
+2023-03-30 11:32:17,890 : WARN  : main :  : Node : GroupBy : 3:36 : Please select at least one group or aggregation column
+2023-03-30 11:32:22,346 : WARN  : main :  : Node : GroupBy : 3:36 : No aggregation column defined
+2023-03-30 11:32:22,346 : WARN  : main :  : Node : GroupBy : 3:36 : No aggregation column defined
+2023-03-30 11:34:13,779 : WARN  : main :  : Node : Value Counter : 3:36 : No column selected
+2023-03-30 11:34:44,190 : WARN  : main :  : Node : GroupBy : 3:37 : No grouping column included. Aggregate complete table.
+2023-03-30 11:34:44,191 : WARN  : main :  : Node : GroupBy : 3:37 : No aggregation column defined
+2023-03-30 11:34:44,191 : WARN  : main :  : Node : GroupBy : 3:37 : No aggregation column defined
+2023-03-30 11:34:44,191 : WARN  : main :  : Node : GroupBy : 3:37 : Please select at least one group or aggregation column
+2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : No grouping column included. Aggregate complete table.
+2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : No aggregation column defined
+2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : No aggregation column defined
+2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : Please select at least one group or aggregation column
