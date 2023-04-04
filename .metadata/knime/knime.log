@@ -1760,3 +1760,157 @@ The covariance matrix could not be calculated because the observed fisher inform
 2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : No aggregation column defined
 2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : No aggregation column defined
 2023-03-30 11:34:50,570 : WARN  : main :  : Node : GroupBy : 3:37 : Please select at least one group or aggregation column
+2023-03-31 10:04:44,351 : WARN  : main :  : FontStore :  :  : Using the system default font for annotations: Font {140708774807152}
+2023-04-01 12:23:54,974 : WARN  : main :  : FontStore :  :  : Using the system default font for annotations: Font {140524695677488}
+2023-04-01 12:24:58,144 : ERROR : AWT-EventQueue-0 :  : TableSorterWorker : CSV Reader : 3:1 : Error sorting table: 'java.lang.Object org.knime.core.node.util.CheckUtils.checkStateType(java.lang.Object, java.lang.Class, java.lang.String)'
+java.util.concurrent.ExecutionException: java.lang.NoSuchMethodError: 'java.lang.Object org.knime.core.node.util.CheckUtils.checkStateType(java.lang.Object, java.lang.Class, java.lang.String)'
+	at java.base/java.util.concurrent.FutureTask.report(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.get(Unknown Source)
+	at java.desktop/javax.swing.SwingWorker.get(Unknown Source)
+	at org.knime.core.node.tableview.TableSorterWorker.doneWithContext(TableSorterWorker.java:229)
+	at org.knime.core.util.SwingWorkerWithContext.done(SwingWorkerWithContext.java:163)
+	at java.desktop/javax.swing.SwingWorker$5.run(Unknown Source)
+	at java.desktop/javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.run(Unknown Source)
+	at java.desktop/sun.swing.AccumulativeRunnable.run(Unknown Source)
+	at java.desktop/javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.actionPerformed(Unknown Source)
+	at java.desktop/javax.swing.Timer.fireActionPerformed(Unknown Source)
+	at java.desktop/javax.swing.Timer$DoPostEvent.run(Unknown Source)
+	at java.desktop/java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.WaitDispatchSupport$2.run(Unknown Source)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(Unknown Source)
+	at java.desktop/java.awt.WaitDispatchSupport$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.desktop/java.awt.WaitDispatchSupport.enter(Unknown Source)
+	at java.desktop/java.awt.Dialog.show(Unknown Source)
+	at java.desktop/java.awt.Component.show(Unknown Source)
+	at java.desktop/java.awt.Component.setVisible(Unknown Source)
+	at java.desktop/java.awt.Window.setVisible(Unknown Source)
+	at java.desktop/java.awt.Dialog.setVisible(Unknown Source)
+	at org.knime.core.node.tableview.TableSorterWorker$1.run(TableSorterWorker.java:145)
+	at org.knime.core.node.util.ViewUtils.invokeAndWaitInEDT(ViewUtils.java:136)
+	at org.knime.core.node.tableview.TableSorterWorker.executeAndShowProgress(TableSorterWorker.java:141)
+	at org.knime.core.node.tableview.TableContentModel.sortTableIntern(TableContentModel.java:626)
+	at org.knime.core.node.tableview.TableContentModel$1.run(TableContentModel.java:597)
+	at org.knime.core.node.util.ViewUtils.invokeAndWaitInEDT(ViewUtils.java:136)
+	at org.knime.core.node.tableview.TableContentModel.requestSort(TableContentModel.java:594)
+	at org.knime.core.node.tableview.TableContentView$1SortKeyActionListener.actionPerformed(TableContentView.java:815)
+	at java.desktop/javax.swing.AbstractButton.fireActionPerformed(Unknown Source)
+	at java.desktop/javax.swing.AbstractButton$Handler.actionPerformed(Unknown Source)
+	at java.desktop/javax.swing.DefaultButtonModel.fireActionPerformed(Unknown Source)
+	at java.desktop/javax.swing.JToggleButton$ToggleButtonModel.setPressed(Unknown Source)
+	at java.desktop/javax.swing.AbstractButton.doClick(Unknown Source)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI.doClick(Unknown Source)
+	at java.desktop/javax.swing.plaf.basic.BasicMenuItemUI$Handler.mouseReleased(Unknown Source)
+	at java.desktop/java.awt.Component.processMouseEvent(Unknown Source)
+	at java.desktop/javax.swing.JComponent.processMouseEvent(Unknown Source)
+	at java.desktop/java.awt.Component.processEvent(Unknown Source)
+	at java.desktop/java.awt.Container.processEvent(Unknown Source)
+	at java.desktop/java.awt.Component.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.LightweightDispatcher.retargetMouseEvent(Unknown Source)
+	at java.desktop/java.awt.LightweightDispatcher.processMouseEvent(Unknown Source)
+	at java.desktop/java.awt.LightweightDispatcher.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.Container.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.Window.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.Component.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEventImpl(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$4.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+	at java.desktop/java.awt.EventQueue$5.run(Unknown Source)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(Unknown Source)
+	at java.desktop/java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.pumpEvents(Unknown Source)
+	at java.desktop/java.awt.EventDispatchThread.run(Unknown Source)
+Caused by: java.lang.NoSuchMethodError: 'java.lang.Object org.knime.core.node.util.CheckUtils.checkStateType(java.lang.Object, java.lang.Class, java.lang.String)'
+	at org.knime.core.data.sort.RowComparator$ColumnComparatorBuilder.lambda$0(RowComparator.java:202)
+	at java.base/java.util.Comparator.lambda$comparing$ea9a8b3a$1(Unknown Source)
+	at org.knime.core.data.MissingDataCellComparator.compare(MissingDataCellComparator.java:86)
+	at org.knime.core.data.MissingDataCellComparator.compare(MissingDataCellComparator.java:1)
+	at java.base/java.util.Collections$ReverseComparator2.compare(Unknown Source)
+	at org.knime.core.data.sort.RowComparator.comparePos(RowComparator.java:419)
+	at org.knime.core.data.sort.RowComparator.lambda$2(RowComparator.java:398)
+	at java.base/java.util.stream.ReferencePipeline$4$1.accept(Unknown Source)
+	at java.base/java.util.Spliterators$IteratorSpliterator.tryAdvance(Unknown Source)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(Unknown Source)
+	at java.base/java.util.stream.IntPipeline.findFirst(Unknown Source)
+	at org.knime.core.data.sort.RowComparator.compare(RowComparator.java:402)
+	at org.knime.core.data.sort.RowComparator.compare(RowComparator.java:1)
+	at java.base/java.util.TimSort.countRunAndMakeAscending(Unknown Source)
+	at java.base/java.util.TimSort.sort(Unknown Source)
+	at java.base/java.util.Arrays.sort(Unknown Source)
+	at java.base/java.util.ArrayList.sort(Unknown Source)
+	at java.base/java.util.Collections.sort(Unknown Source)
+	at org.knime.core.data.sort.AbstractTableSorter.createInitialChunks(AbstractTableSorter.java:649)
+	at org.knime.core.data.sort.AbstractTableSorter.sortOnDisk(AbstractTableSorter.java:512)
+	at org.knime.core.data.sort.AbstractTableSorter.sortInternal(AbstractTableSorter.java:431)
+	at org.knime.core.data.sort.DataTableSorter.sort(DataTableSorter.java:217)
+	at org.knime.core.node.tableview.TableSorterWorker.doInBackgroundWithContext(TableSorterWorker.java:195)
+	at org.knime.core.node.tableview.TableSorterWorker.doInBackgroundWithContext(TableSorterWorker.java:1)
+	at org.knime.core.util.SwingWorkerWithContext.doInBackground(SwingWorkerWithContext.java:106)
+	at java.desktop/javax.swing.SwingWorker$1.call(Unknown Source)
+	at java.base/java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.desktop/javax.swing.SwingWorker.run(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.base/java.lang.Thread.run(Unknown Source)
+2023-04-01 16:46:47,277 : WARN  : main :  : FontStore :  :  : Using the system default font for annotations: Font {140407523071072}
+2023-04-04 16:15:50,635 : WARN  : main :  : FontStore :  :  : Using the system default font for annotations: Font {140637639786912}
+2023-04-04 16:20:54,368 : WARN  : KNIME-Worker-4-String To Number 3:33:19:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:33:19:1 : Values in 1375 cells could not be parsed, first error: The string "25,196214" in cell [row "Row498", column "Age"] can not be transformed into a number: For input string: "25,196214"
+2023-04-04 16:20:54,368 : WARN  : KNIME-Worker-4-String To Number 3:33:19:1 :  : Node : String To Number : 3:33:19:1 : Problems occurred, see Console messages.
+2023-04-04 16:55:23,744 : WARN  : main :  : FontStore :  :  : Using the system default font for annotations: Font {140566101157152}
+2023-04-04 16:55:33,858 : WARN  : KNIME-Worker-0-String To Number 3:33:19:1 :  : AbstractStringToNumberNodeModel : String To Number : 3:33:19:1 : Values in 1375 cells could not be parsed, first error: The string "25,196214" in cell [row "Row498", column "Age"] can not be transformed into a number: For input string: "25,196214"
+2023-04-04 16:55:33,858 : WARN  : KNIME-Worker-0-String To Number 3:33:19:1 :  : Node : String To Number : 3:33:19:1 : Problems occurred, see Console messages.
+2023-04-04 16:55:55,192 : WARN  : KNIME-Worker-0-Scorer 3:27 :  : Node : Scorer : 3:27 : There were missing values in the reference or in the prediction class columns.
+2023-04-04 16:58:39,056 : WARN  : KNIME-Worker-4-Statistics 3:35 :  : Node : Statistics : 3:35 : Maximum number of unique possible values (1000) exceeds for column(s): "rowID","Height","Weight","Age","CH2O","FAF","TUE"
+2023-04-04 17:00:07,519 : WARN  : KNIME-Worker-4-String To Number 3:7:6 :  : AbstractStringToNumberNodeModel : String To Number : 3:7:6 : Values in 30340 cells could not be parsed, first error: The string "Female" in cell [row "Row0", column "Gender"] can not be transformed into a number: For input string: "Female"
+2023-04-04 17:00:07,520 : WARN  : KNIME-Worker-4-String To Number 3:7:6 :  : Node : String To Number : 3:7:6 : Problems occurred, see Console messages.
+2023-04-04 17:00:48,582 : WARN  : KNIME-Worker-5-String To Number 3:7:6 :  : AbstractStringToNumberNodeModel : String To Number : 3:7:6 : Values in 4939 cells could not be parsed, first error: The string "1,62" in cell [row "Row0", column "Height"] can not be transformed into a number: For input string: "1,62"
+2023-04-04 17:00:48,582 : WARN  : KNIME-Worker-5-String To Number 3:7:6 :  : Node : String To Number : 3:7:6 : Problems occurred, see Console messages.
+2023-04-04 17:02:41,151 : WARN  : KNIME-Worker-7-Statistics 3:35 :  : Node : Statistics : 3:35 : Maximum number of unique possible values (1000) exceeds for column(s): "rowID","CH2O","FAF","TUE"
+2023-04-04 17:04:12,157 : WARN  : KNIME-Worker-15-Statistics 3:35 :  : Node : Statistics : 3:35 : Maximum number of unique possible values (1000) exceeds for column(s): "rowID","Height","Weight","Age","CH2O","FAF","TUE"
+2023-04-04 17:08:01,633 : WARN  : main :  : Node : Java Snippet : 3:33:20:4 : Compile with errors:
+Error in line 30: Type mismatch: cannot convert from double to java.lang.String
+
+2023-04-04 17:09:13,394 : WARN  : main :  : Node : Java Snippet : 3:33:20:4 : Compile with errors:
+Error in line 31: Type mismatch: cannot convert from double to java.lang.String
+Error in line 33: Type mismatch: cannot convert from java.lang.Double to java.lang.String
+
+2023-04-04 17:17:16,808 : WARN  : main :  : Node : Java Snippet : 3:33:19:5 : Compile with errors:
+Error in line 32: Type mismatch: cannot convert from double to java.lang.Integer
+
+2023-04-04 17:17:21,546 : WARN  : main :  : Node : Java Snippet : 3:33:19:5 : Compile with errors:
+Error in line 32: Type mismatch: cannot convert from double to java.lang.Integer
+
+2023-04-04 17:17:28,097 : WARN  : main :  : Node : Java Snippet : 3:33:19:5 : Compile with errors:
+Error in line 32: Cannot cast from java.lang.Double to int
+
+2023-04-04 17:17:29,692 : WARN  : KNIME-Worker-28-Round Double 3:33:19:3 :  : Node : Java Snippet : 3:33:19:5 : Compile with errors:
+Error in line 32: Cannot cast from java.lang.Double to int
+
+2023-04-04 17:18:53,310 : WARN  : KNIME-Worker-30-Statistics 3:35 :  : Node : Statistics : 3:35 : Maximum number of unique possible values (1000) exceeds for column(s): "Height","Weight","Age","CH2O","FAF","TUE"
+2023-04-04 17:18:54,199 : WARN  : KNIME-Worker-32-Scorer 3:27 :  : Node : Scorer : 3:27 : There were missing values in the reference or in the prediction class columns.
+2023-04-04 17:19:49,151 : WARN  : KNIME-Worker-34-Scorer 3:27 :  : Node : Scorer : 3:27 : There were missing values in the reference or in the prediction class columns.
