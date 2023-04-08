@@ -8,7 +8,7 @@
         <entry key="authored-by" type="xstring" value="rui-oliveira02"/>
         <entry key="authored-when" type="xstring" value="2023-03-11 14:42:52 +0000"/>
         <entry key="lastEdited-by" type="xstring" value="luismfp"/>
-        <entry key="lastEdited-when" type="xstring" value="2023-04-08 15:00:52 +0100"/>
+        <entry key="lastEdited-when" type="xstring" value="2023-04-08 15:02:54 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="IDLE"/>
@@ -78,7 +78,7 @@
                     <entry key="length" type="xint" value="6"/>
                     <entry key="fontname" type="xstring" value="Arial"/>
                     <entry key="fontstyle" type="xint" value="1"/>
-                    <entry key="fontsize" type="xint" value="9"/>
+                    <entry key="fontsize" type="xint" value="11"/>
                     <entry key="fgcolor" type="xint" value="0"/>
                 </config>
             </config>

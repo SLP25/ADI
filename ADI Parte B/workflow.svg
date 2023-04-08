@@ -30,7 +30,7 @@
                 <path d="M566 982 L949 982 L949 1145 L566 1145 L566 982 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath6">
-                <path d="M576 992 L626 992 L626 1008 L576 1008 L576 992 Z"/>
+                <path d="M576 992 L635 992 L635 1012 L576 1012 L576 992 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath7">
                 <path d="M28 501 L116 501 L116 539 L28 539 L28 501 Z"/>
@@ -436,9 +436,9 @@
             <rect x="567" y="983" clip-path="url(#clipPath5)" fill="white"
                   width="381" height="161" stroke="none"/>
         </g>
-        <g stroke-width="10" font-weight="bold" font-family="&apos;Arial&apos;"
-           stroke-linecap="butt">
-            <text x="577" xml:space="preserve" y="1004"
+        <g stroke-width="10" font-size="14px" font-weight="bold"
+           font-family="&apos;Arial&apos;" stroke-linecap="butt">
+            <text x="577" xml:space="preserve" y="1006"
                   clip-path="url(#clipPath6)" stroke="none">Female</text>
         </g><g fill="rgb(253,35,166)" font-size="14px" stroke-width="10"
            font-family="&apos;Noto Sans&apos;" stroke-linecap="butt"
@@ -1563,9 +1563,9 @@ NlNSsN2xsTt+08LqMAC1mixw0DgaVQAAAABJRU5ErkJggg==" xlink:type="simple"
                   width="381" height="161" stroke="none"/>
         </g>
         <g text-rendering="optimizeLegibility" stroke-width="10"
-           font-weight="bold" font-family="&apos;Arial&apos;"
+           font-size="14px" font-weight="bold" font-family="&apos;Arial&apos;"
            stroke-linecap="butt">
-            <text x="577" xml:space="preserve" y="1004"
+            <text x="577" xml:space="preserve" y="1006"
                   clip-path="url(#clipPath6)" stroke="none">Female</text>
         </g><g stroke-linecap="butt" font-size="14px" fill="rgb(253,35,166)"
            text-rendering="optimizeLegibility"
