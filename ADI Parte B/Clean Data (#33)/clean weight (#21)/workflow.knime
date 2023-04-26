@@ -25,24 +25,24 @@
                     <entry key="array-size" type="xint" value="4"/>
                     <entry key="0" type="xint" value="184"/>
                     <entry key="1" type="xint" value="277"/>
-                    <entry key="2" type="xint" value="133"/>
-                    <entry key="3" type="xint" value="82"/>
+                    <entry key="2" type="xint" value="135"/>
+                    <entry key="3" type="xint" value="81"/>
                 </config>
             </config>
         </config>
         <config key="node_2">
             <entry key="id" type="xint" value="2"/>
-            <entry key="node_settings_file" type="xstring" value="Java Snippet (#2)/settings.xml"/>
+            <entry key="node_settings_file" type="xstring" value="Numeric Outliers (#2)/settings.xml"/>
             <entry key="node_is_meta" type="xboolean" value="false"/>
             <entry key="node_type" type="xstring" value="NativeNode"/>
             <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
             <config key="ui_settings">
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
-                    <entry key="0" type="xint" value="384"/>
+                    <entry key="0" type="xint" value="344"/>
                     <entry key="1" type="xint" value="297"/>
-                    <entry key="2" type="xint" value="93"/>
-                    <entry key="3" type="xint" value="82"/>
+                    <entry key="2" type="xint" value="129"/>
+                    <entry key="3" type="xint" value="81"/>
                 </config>
             </config>
         </config>
@@ -63,20 +63,12 @@
             <entry key="destID" type="xint" value="2"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="1"/>
-            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
-            <config key="ui_settings">
-                <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
-            </config>
         </config>
         <config key="connection_2">
             <entry key="sourceID" type="xint" value="2"/>
             <entry key="destID" type="xint" value="-1"/>
             <entry key="sourcePort" type="xint" value="1"/>
             <entry key="destPort" type="xint" value="0"/>
-            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.ConnectionUIInformation"/>
-            <config key="ui_settings">
-                <entry key="extrainfo.conn.bendpoints_size" type="xint" value="0"/>
-            </config>
         </config>
     </config>
     <config key="meta_in_ports">
@@ -96,7 +88,7 @@
         <config key="port_enum">
             <config key="outport_0">
                 <entry key="index" type="xint" value="0"/>
-                <entry key="name" type="xstring" value="Connected to: Appended table"/>
+                <entry key="name" type="xstring" value="Connected to: Treated table"/>
                 <config key="type">
                     <entry key="object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
                 </config>
@@ -104,12 +96,12 @@
         </config>
     </config>
     <config key="workflow_editor_settings">
-        <entry key="workflow.editor.snapToGrid" type="xboolean" value="false"/>
+        <entry key="workflow.editor.snapToGrid" type="xboolean" value="true"/>
         <entry key="workflow.editor.ShowGrid" type="xboolean" value="false"/>
-        <entry key="workflow.editor.gridX" type="xint" value="-1"/>
-        <entry key="workflow.editor.gridY" type="xint" value="-1"/>
-        <entry key="workflow.editor.zoomLevel" type="xdouble" value="1.0"/>
-        <entry key="workflow.editor.curvedConnections" type="xboolean" value="false"/>
-        <entry key="workflow.editor.connectionWidth" type="xint" value="1"/>
+        <entry key="workflow.editor.gridX" type="xint" value="20"/>
+        <entry key="workflow.editor.gridY" type="xint" value="20"/>
+        <entry key="workflow.editor.zoomLevel" type="xdouble" value="0.75"/>
+        <entry key="workflow.editor.curvedConnections" type="xboolean" value="true"/>
+        <entry key="workflow.editor.connectionWidth" type="xint" value="2"/>
     </config>
 </config>
