@@ -11,16 +11,11 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="classifyColumn" type="xstring" value="NObeyesdad"/>
-        <config key="numverRecordsToView_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+        <config key="splitQualityMeasure_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="numverRecordsToView" type="xint" value="10000"/>
-        <config key="minNumberRecordsPerNode_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="minNumberRecordsPerNode" type="xint" value="2"/>
+        <entry key="splitQualityMeasure" type="xstring" value="Gain ratio"/>
         <config key="pruningMethod_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -31,11 +26,16 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="enableReducedErrorPruning" type="xboolean" value="true"/>
-        <config key="splitQualityMeasure_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+        <config key="minNumberRecordsPerNode_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="splitQualityMeasure" type="xstring" value="Gini index"/>
+        <entry key="minNumberRecordsPerNode" type="xint" value="3"/>
+        <config key="numverRecordsToView_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="numverRecordsToView" type="xint" value="10000"/>
         <config key="splitAverage_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -46,36 +46,11 @@
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="numProcessors" type="xint" value="12"/>
-        <config key="maxNumNominalValues_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
-            <entry key="EnabledStatus" type="xboolean" value="false"/>
-        </config>
-        <entry key="maxNumNominalValues" type="xint" value="10"/>
-        <config key="binaryNominalSplit_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="binaryNominalSplit" type="xboolean" value="false"/>
-        <config key="FilterNominalValuesFromParent_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
-            <entry key="EnabledStatus" type="xboolean" value="false"/>
-        </config>
-        <entry key="FilterNominalValuesFromParent" type="xboolean" value="false"/>
         <config key="skipColumnsWithoutDomain_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
         <entry key="skipColumnsWithoutDomain" type="xboolean" value="true"/>
-        <config key="CFG_NOTRUECHILD_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="CFG_NOTRUECHILD" type="xstring" value="returnNullPrediction"/>
-        <config key="CFG_MISSINGSTRATEGY_Internals">
-            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
-            <entry key="EnabledStatus" type="xboolean" value="true"/>
-        </config>
-        <entry key="CFG_MISSINGSTRATEGY" type="xstring" value="lastPrediction"/>
         <config key="useFirstSplitColumn_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -85,7 +60,32 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="false"/>
         </config>
-        <entry key="firstSplitColumn" type="xstring" value="MTRANS"/>
+        <entry key="firstSplitColumn" type="xstring" value="Weight"/>
+        <config key="binaryNominalSplit_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="binaryNominalSplit" type="xboolean" value="false"/>
+        <config key="maxNumNominalValues_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
+            <entry key="EnabledStatus" type="xboolean" value="false"/>
+        </config>
+        <entry key="maxNumNominalValues" type="xint" value="10"/>
+        <config key="FilterNominalValuesFromParent_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+            <entry key="EnabledStatus" type="xboolean" value="false"/>
+        </config>
+        <entry key="FilterNominalValuesFromParent" type="xboolean" value="false"/>
+        <config key="CFG_NOTRUECHILD_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="CFG_NOTRUECHILD" type="xstring" value="returnLastPrediction"/>
+        <config key="CFG_MISSINGSTRATEGY_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="CFG_MISSINGSTRATEGY" type="xstring" value="lastPrediction"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
