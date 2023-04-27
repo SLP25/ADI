@@ -11,10 +11,10 @@
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
                 <entry key="array-size" type="xint" value="8"/>
-                <entry key="0" type="xstring" value="Gender"/>
-                <entry key="1" type="xstring" value="Height"/>
-                <entry key="2" type="xstring" value="Weight"/>
-                <entry key="3" type="xstring" value="CAEC"/>
+                <entry key="0" type="xstring" value="Height"/>
+                <entry key="1" type="xstring" value="Weight"/>
+                <entry key="2" type="xstring" value="CAEC"/>
+                <entry key="3" type="xstring" value="SMOKE"/>
                 <entry key="4" type="xstring" value="CH2O"/>
                 <entry key="5" type="xstring" value="FAF"/>
                 <entry key="6" type="xstring" value="CALC"/>
@@ -32,8 +32,8 @@
             </config>
             <config key="datatype">
                 <config key="typelist">
-                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
+                    <entry key="org.knime.core.data.StringValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.BooleanValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.LongValue" type="xboolean" value="false"/>
@@ -51,7 +51,7 @@
         <entry key="useOrderFromFeatureDomain" type="xboolean" value="false"/>
         <entry key="solver" type="xstring" value="SAG"/>
         <entry key="maxEpoch" type="xint" value="1500"/>
-        <entry key="performLazy" type="xboolean" value="false"/>
+        <entry key="performLazy" type="xboolean" value="true"/>
         <entry key="epsilon" type="xdouble" value="1.0E-5"/>
         <entry key="learningRateStrategy" type="xstring" value="Fixed"/>
         <entry key="prior" type="xstring" value="Uniform"/>
