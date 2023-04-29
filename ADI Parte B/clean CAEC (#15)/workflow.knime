@@ -13,8 +13,8 @@
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Fix typos"/>
         <entry key="bgcolor" type="xint" value="16777215"/>
-        <entry key="x-coordinate" type="xint" value="993"/>
-        <entry key="y-coordinate" type="xint" value="2346"/>
+        <entry key="x-coordinate" type="xint" value="996"/>
+        <entry key="y-coordinate" type="xint" value="2563"/>
         <entry key="width" type="xint" value="134"/>
         <entry key="height" type="xint" value="18"/>
         <entry key="alignment" type="xstring" value="CENTER"/>
@@ -25,7 +25,7 @@
         <config key="styles"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="CONFIGURED"/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
     <config key="workflow_credentials"/>
     <config key="nodes">
         <config key="node_13">

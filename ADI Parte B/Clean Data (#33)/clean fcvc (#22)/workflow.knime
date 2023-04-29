@@ -25,8 +25,8 @@
                     <entry key="array-size" type="xint" value="4"/>
                     <entry key="0" type="xint" value="164"/>
                     <entry key="1" type="xint" value="157"/>
-                    <entry key="2" type="xint" value="114"/>
-                    <entry key="3" type="xint" value="82"/>
+                    <entry key="2" type="xint" value="119"/>
+                    <entry key="3" type="xint" value="81"/>
                 </config>
             </config>
         </config>
@@ -41,8 +41,8 @@
                     <entry key="array-size" type="xint" value="4"/>
                     <entry key="0" type="xint" value="284"/>
                     <entry key="1" type="xint" value="177"/>
-                    <entry key="2" type="xint" value="114"/>
-                    <entry key="3" type="xint" value="82"/>
+                    <entry key="2" type="xint" value="119"/>
+                    <entry key="3" type="xint" value="81"/>
                 </config>
             </config>
         </config>
@@ -57,8 +57,8 @@
                     <entry key="array-size" type="xint" value="4"/>
                     <entry key="0" type="xint" value="404"/>
                     <entry key="1" type="xint" value="177"/>
-                    <entry key="2" type="xint" value="114"/>
-                    <entry key="3" type="xint" value="82"/>
+                    <entry key="2" type="xint" value="119"/>
+                    <entry key="3" type="xint" value="81"/>
                 </config>
             </config>
         </config>
@@ -122,12 +122,12 @@
         </config>
     </config>
     <config key="workflow_editor_settings">
-        <entry key="workflow.editor.snapToGrid" type="xboolean" value="false"/>
+        <entry key="workflow.editor.snapToGrid" type="xboolean" value="true"/>
         <entry key="workflow.editor.ShowGrid" type="xboolean" value="false"/>
-        <entry key="workflow.editor.gridX" type="xint" value="-1"/>
-        <entry key="workflow.editor.gridY" type="xint" value="-1"/>
+        <entry key="workflow.editor.gridX" type="xint" value="20"/>
+        <entry key="workflow.editor.gridY" type="xint" value="20"/>
         <entry key="workflow.editor.zoomLevel" type="xdouble" value="1.0"/>
-        <entry key="workflow.editor.curvedConnections" type="xboolean" value="false"/>
-        <entry key="workflow.editor.connectionWidth" type="xint" value="1"/>
+        <entry key="workflow.editor.curvedConnections" type="xboolean" value="true"/>
+        <entry key="workflow.editor.connectionWidth" type="xint" value="2"/>
     </config>
 </config>
