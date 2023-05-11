@@ -13,8 +13,8 @@
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Convert Man%%00010and Woman to%%00010Male and Female"/>
         <entry key="bgcolor" type="xint" value="16777215"/>
-        <entry key="x-coordinate" type="xint" value="993"/>
-        <entry key="y-coordinate" type="xint" value="1886"/>
+        <entry key="x-coordinate" type="xint" value="3033"/>
+        <entry key="y-coordinate" type="xint" value="3246"/>
         <entry key="width" type="xint" value="134"/>
         <entry key="height" type="xint" value="54"/>
         <entry key="alignment" type="xstring" value="CENTER"/>
@@ -25,7 +25,7 @@
         <config key="styles"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
-    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="state" type="xstring" value="CONFIGURED"/>
     <config key="workflow_credentials"/>
     <config key="nodes">
         <config key="node_13">
