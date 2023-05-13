@@ -241,13 +241,13 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="0.0"/>
+                        <entry key="StringCell" type="xstring" value="3.0"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="1.0"/>
+                        <entry key="StringCell" type="xstring" value="0.0"/>
                     </config>
                 </config>
                 <config key="2">
@@ -265,19 +265,19 @@
                 <config key="4">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="3.0"/>
+                        <entry key="StringCell" type="xstring" value="1.0"/>
                     </config>
                 </config>
                 <config key="5">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="4.0"/>
+                        <entry key="StringCell" type="xstring" value="4.999999999999999"/>
                     </config>
                 </config>
                 <config key="6">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="4.999999999999999"/>
+                        <entry key="StringCell" type="xstring" value="4.0"/>
                     </config>
                 </config>
             </config>
@@ -324,13 +324,13 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="0.0"/>
+                        <entry key="StringCell" type="xstring" value="1.0"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="1.0"/>
+                        <entry key="StringCell" type="xstring" value="0.0"/>
                     </config>
                 </config>
             </config>
