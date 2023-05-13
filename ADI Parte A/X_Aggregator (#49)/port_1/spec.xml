@@ -540,13 +540,13 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="(453,500.15,877,000.3]"/>
+                        <entry key="StringCell" type="xstring" value="[30,000,453,500.15]"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="[30,000,453,500.15]"/>
+                        <entry key="StringCell" type="xstring" value="(453,500.15,877,000.3]"/>
                     </config>
                 </config>
                 <config key="2">
