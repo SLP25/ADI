@@ -72,7 +72,7 @@
                 <path d="M1141 365 L1247 365 L1247 397 L1141 397 L1141 365 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath20">
-                <path d="M2113 1581 L2169 1581 L2169 1598 L2113 1598 L2113 1581 Z"/>
+                <path d="M2106 1581 L2178 1581 L2178 1598 L2106 1598 L2106 1581 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath21">
                 <path d="M1767 4065 L1826 4065 L1826 4082 L1767 4082 L1767 4065 Z"/>
@@ -93,10 +93,10 @@
                 <path d="M1017 3558 L1129 3558 L1129 3605 L1017 3605 L1017 3558 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath27">
-                <path d="M1828 3101 L1884 3101 L1884 3118 L1828 3118 L1828 3101 Z"/>
+                <path d="M1821 3101 L1893 3101 L1893 3118 L1821 3118 L1821 3101 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath28">
-                <path d="M1628 3101 L1684 3101 L1684 3118 L1628 3118 L1628 3101 Z"/>
+                <path d="M1633 3101 L1678 3101 L1678 3118 L1633 3118 L1633 3101 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath29">
                 <path d="M1136 638 L1250 638 L1250 670 L1136 670 L1136 638 Z"/>
@@ -111,25 +111,25 @@
                 <path d="M1361 739 L1387 739 L1387 756 L1361 756 L1361 739 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath33">
-                <path d="M1425 3101 L1489 3101 L1489 3118 L1425 3118 L1425 3101 Z"/>
+                <path d="M1419 3101 L1495 3101 L1495 3133 L1419 3133 L1419 3101 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath34">
-                <path d="M1725 3101 L1789 3101 L1789 3118 L1725 3118 L1725 3101 Z"/>
+                <path d="M1709 3101 L1807 3101 L1807 3118 L1709 3118 L1709 3101 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath35">
-                <path d="M1825 2801 L1889 2801 L1889 2818 L1825 2818 L1825 2801 Z"/>
+                <path d="M1809 2801 L1907 2801 L1907 2818 L1809 2818 L1809 2801 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath36">
-                <path d="M1525 2801 L1589 2801 L1589 2818 L1525 2818 L1525 2801 Z"/>
+                <path d="M1518 2801 L1598 2801 L1598 2833 L1518 2833 L1518 2801 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath37">
-                <path d="M1625 2921 L1689 2921 L1689 2938 L1625 2938 L1625 2921 Z"/>
+                <path d="M1630 2921 L1681 2921 L1681 2938 L1630 2938 L1630 2921 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath38">
-                <path d="M1725 2801 L1789 2801 L1789 2818 L1725 2818 L1725 2801 Z"/>
+                <path d="M1718 2801 L1797 2801 L1797 2818 L1718 2818 L1718 2801 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath39">
-                <path d="M1925 2801 L1989 2801 L1989 2818 L1925 2818 L1925 2801 Z"/>
+                <path d="M1921 2801 L1993 2801 L1993 2818 L1921 2818 L1921 2801 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath40">
                 <path d="M1520 2218 L1627 2218 L1627 2250 L1520 2250 L1520 2218 Z"/>
@@ -141,7 +141,7 @@
                 <path d="M1705 1599 L1767 1599 L1767 1616 L1705 1616 L1705 1599 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath43">
-                <path d="M1865 1679 L1927 1679 L1927 1696 L1865 1696 L1865 1679 Z"/>
+                <path d="M1858 1679 L1937 1679 L1937 1696 L1858 1696 L1858 1679 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath44">
                 <path d="M1623 2461 L1690 2461 L1690 2478 L1623 2478 L1623 2461 Z"/>
@@ -150,7 +150,7 @@
                 <path d="M1978 2458 L2129 2458 L2129 2475 L1978 2475 L1978 2458 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath46">
-                <path d="M1425 2801 L1489 2801 L1489 2818 L1425 2818 L1425 2801 Z"/>
+                <path d="M1408 2801 L1507 2801 L1507 2833 L1408 2833 L1408 2801 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath47">
                 <path d="M1925 2221 L1989 2221 L1989 2238 L1925 2238 L1925 2221 Z"/>
@@ -237,7 +237,7 @@
                 <path d="M1753 3598 L1843 3598 L1843 3615 L1753 3615 L1753 3598 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath75">
-                <path d="M185 2518 L249 2518 L249 2535 L185 2535 L185 2518 Z"/>
+                <path d="M165 2518 L267 2518 L267 2550 L165 2550 L165 2518 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath76">
                 <path d="M1759 5038 L1836 5038 L1836 5055 L1759 5055 L1759 5038 Z"/>
@@ -246,7 +246,7 @@
                 <path d="M1122 498 L1265 498 L1265 530 L1122 530 L1122 498 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath78">
-                <path d="M1525 3101 L1589 3101 L1589 3118 L1525 3118 L1525 3101 Z"/>
+                <path d="M1519 3101 L1596 3101 L1596 3133 L1519 3133 L1519 3101 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath79">
                 <path d="M1096 2518 L1180 2518 L1180 2550 L1096 2550 L1096 2518 Z"/>
@@ -300,13 +300,13 @@
                 <path d="M2321 1882 L2393 1882 L2393 1899 L2321 1899 L2321 1882 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath96">
-                <path d="M1585 1466 L1647 1466 L1647 1483 L1585 1483 L1585 1466 Z"/>
+                <path d="M1570 1466 L1667 1466 L1667 1483 L1570 1483 L1570 1466 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath97">
                 <path d="M1337 1645 L1449 1645 L1449 1677 L1337 1677 L1337 1645 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath98">
-                <path d="M1466 1658 L1530 1658 L1530 1675 L1466 1675 L1466 1658 Z"/>
+                <path d="M1445 1658 L1548 1658 L1548 1675 L1445 1675 L1445 1658 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath99">
                 <path d="M1561 1658 L1668 1658 L1668 1690 L1561 1690 L1561 1658 Z"/>
@@ -1296,7 +1296,7 @@
                 <path d="M1982 1622 L2016 1622 L2016 1633 L1982 1633 L1982 1622 Z"/>
             </clipPath>
             <clipPath clipPathUnits="userSpaceOnUse" id="clipPath428">
-                <path d="M-1 -1 L2828 -1 L2828 6284 L-1 6284 L-1 -1 Z"/>
+                <path d="M-1 -1 L2828 -1 L2828 6285 L-1 6285 L-1 -1 Z"/>
             </clipPath>
         </defs>
         <g fill="white" stroke-miterlimit="0" stroke-width="0"
@@ -1402,10 +1402,10 @@
                   xml:space="preserve">Table View</text><text x="1142" y="377"
                   clip-path="url(#clipPath19)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Obesity to Number</text><text x="2114"
+                  xml:space="preserve">Obesity to Number</text><text x="2107"
                   y="1593" clip-path="url(#clipPath20)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 12</text><text x="1768" y="4077"
+                  xml:space="preserve">Score Data</text><text x="1768" y="4077"
                   clip-path="url(#clipPath21)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Fix Typos</text><text x="1768" y="3477"
@@ -1435,13 +1435,13 @@
                   xml:space="preserve">decimal places that </text><text x="1021"
                   y="3600" clip-path="url(#clipPath26)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">should be integers</text><text x="1829"
+                  xml:space="preserve">should be integers</text><text x="1822"
                   y="3113" clip-path="url(#clipPath27)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 27</text><text x="1629" y="3113"
+                  xml:space="preserve">Score Data</text><text x="1634" y="3113"
                   clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 29</text><text x="1137" y="650"
+                  xml:space="preserve">Predict</text><text x="1137" y="650"
                   clip-path="url(#clipPath29)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Correlation Between</text><text x="1167"
@@ -1456,28 +1456,34 @@
                   xml:space="preserve">General Statistics</text><text x="1362"
                   y="751" clip-path="url(#clipPath32)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Age</text><text x="1426" y="3113"
+                  xml:space="preserve">Age</text><text x="1420" y="3113"
                   clip-path="url(#clipPath33)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 100</text><text x="1726" y="3113"
+                  xml:space="preserve">Random 10</text><text x="1423" y="3128"
+                  clip-path="url(#clipPath33)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">validations</text><text x="1710" y="3113"
                   clip-path="url(#clipPath34)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 101</text><text x="1826" y="2813"
-                  clip-path="url(#clipPath35)" fill="black"
+                  xml:space="preserve">Aggregate Data</text><text x="1810"
+                  y="2813" clip-path="url(#clipPath35)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 102</text><text x="1526" y="2813"
+                  xml:space="preserve">Aggregate Data</text><text x="1519"
+                  y="2813" clip-path="url(#clipPath36)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">Random 10 </text><text x="1523" y="2828"
                   clip-path="url(#clipPath36)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 103</text><text x="1626" y="2933"
+                  xml:space="preserve">validations</text><text x="1631" y="2933"
                   clip-path="url(#clipPath37)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 107</text><text x="1726" y="2813"
+                  xml:space="preserve">Learner</text><text x="1719" y="2813"
                   clip-path="url(#clipPath38)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 108</text><text x="1926" y="2813"
-                  clip-path="url(#clipPath39)" fill="black"
+                  xml:space="preserve">Preditc Data</text><text x="1922"
+                  y="2813" clip-path="url(#clipPath39)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 109</text><text x="1521" y="2230"
+                  xml:space="preserve">Score Data</text><text x="1521" y="2230"
                   clip-path="url(#clipPath40)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Random Sampling</text><text x="1535"
@@ -1489,20 +1495,23 @@
                   xml:space="preserve">Aggregate Data</text><text x="1706"
                   y="1611" clip-path="url(#clipPath42)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 112</text><text x="1866" y="1691"
+                  xml:space="preserve">Node 112</text><text x="1859" y="1691"
                   clip-path="url(#clipPath43)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 113</text><text x="1624" y="2473"
-                  clip-path="url(#clipPath44)" fill="black"
+                  xml:space="preserve">Predict Data</text><text x="1624"
+                  y="2473" clip-path="url(#clipPath44)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">7 Clusters</text><text x="1979" y="2470"
                   clip-path="url(#clipPath45)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Weight Levels Visualization</text><text x="1426"
+                  xml:space="preserve">Weight Levels Visualization</text><text x="1431"
                   y="2813" clip-path="url(#clipPath46)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 131</text><text x="1926" y="2233"
-                  clip-path="url(#clipPath47)" fill="black"
+                  xml:space="preserve">Min-Max</text><text x="1409" y="2828"
+                  clip-path="url(#clipPath46)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">betweet 0 and 1</text><text x="1926"
+                  y="2233" clip-path="url(#clipPath47)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Set Rules</text><text x="2022" y="2233"
                   clip-path="url(#clipPath48)" fill="black"
@@ -1577,17 +1586,21 @@
                   xml:space="preserve" font-size="12px" y="4570"
                   clip-path="url(#clipPath73)" stroke="none">RowId</text><text x="1754"
                   xml:space="preserve" font-size="12px" y="3610"
-                  clip-path="url(#clipPath74)" stroke="none">Family History</text><text x="186"
+                  clip-path="url(#clipPath74)" stroke="none">Family History</text><text x="168"
                   xml:space="preserve" font-size="12px" y="2530"
-                  clip-path="url(#clipPath75)" stroke="none">Node 192</text><text x="1760"
+                  clip-path="url(#clipPath75)" stroke="none">Convert dates to</text><text x="166"
+                  xml:space="preserve" font-size="12px" y="2545"
+                  clip-path="url(#clipPath75)" stroke="none">actual Datetimes</text><text x="1760"
                   xml:space="preserve" font-size="12px" y="5050"
                   clip-path="url(#clipPath76)" stroke="none">Date of birth</text><text x="1123"
                   xml:space="preserve" font-size="12px" y="510"
                   clip-path="url(#clipPath77)" stroke="none">Age and Transport Means</text><text x="1165"
                   xml:space="preserve" font-size="12px" y="525"
-                  clip-path="url(#clipPath77)" stroke="none">Bar Graph</text><text x="1526"
+                  clip-path="url(#clipPath77)" stroke="none">Bar Graph</text><text x="1524"
                   xml:space="preserve" font-size="12px" y="3113"
-                  clip-path="url(#clipPath78)" stroke="none">Node 195</text><text x="1097"
+                  clip-path="url(#clipPath78)" stroke="none">Gini index,</text><text x="1520"
+                  xml:space="preserve" font-size="12px" y="3128"
+                  clip-path="url(#clipPath78)" stroke="none">no prunning</text><text x="1097"
                   xml:space="preserve" font-size="12px" y="2530"
                   clip-path="url(#clipPath79)" stroke="none">Remove AGE</text><text x="1100"
                   xml:space="preserve" font-size="12px" y="2545"
@@ -1641,15 +1654,15 @@
                   xml:space="preserve" font-size="12px" y="1909"
                   clip-path="url(#clipPath94)" stroke="none">into Strings</text><text x="2322"
                   xml:space="preserve" font-size="12px" y="1894"
-                  clip-path="url(#clipPath95)" stroke="none">Score Data</text><text x="1586"
+                  clip-path="url(#clipPath95)" stroke="none">Score Data</text><text x="1571"
                   xml:space="preserve" font-size="12px" y="1478"
-                  clip-path="url(#clipPath96)" stroke="none">Node 211</text><text x="1338"
+                  clip-path="url(#clipPath96)" stroke="none">Rede Neuronal</text><text x="1338"
                   xml:space="preserve" font-size="12px" y="1657"
                   clip-path="url(#clipPath97)" stroke="none">Convert field values </text><text x="1360"
                   xml:space="preserve" font-size="12px" y="1672"
-                  clip-path="url(#clipPath97)" stroke="none">to numbers.</text><text x="1467"
+                  clip-path="url(#clipPath97)" stroke="none">to numbers.</text><text x="1446"
                   xml:space="preserve" font-size="12px" y="1670"
-                  clip-path="url(#clipPath98)" stroke="none">Node 213</text><text x="1562"
+                  clip-path="url(#clipPath98)" stroke="none">Normalize values</text><text x="1562"
                   xml:space="preserve" font-size="12px" y="1670"
                   clip-path="url(#clipPath99)" stroke="none">Random Sampling</text><text x="1576"
                   xml:space="preserve" font-size="12px" y="1685"
@@ -5432,10 +5445,10 @@ mzYZ+f/hTEBupv68onIjtN6rKNJKI+cPvWBnAUm4pk8AAAAASUVORK5CYII="
                   xml:space="preserve">Table View</text><text x="1142" y="377"
                   clip-path="url(#clipPath19)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Obesity to Number</text><text x="2114"
+                  xml:space="preserve">Obesity to Number</text><text x="2107"
                   y="1593" clip-path="url(#clipPath20)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 12</text><text x="1768" y="4077"
+                  xml:space="preserve">Score Data</text><text x="1768" y="4077"
                   clip-path="url(#clipPath21)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Fix Typos</text><text x="1768" y="3477"
@@ -5465,13 +5478,13 @@ mzYZ+f/hTEBupv68onIjtN6rKNJKI+cPvWBnAUm4pk8AAAAASUVORK5CYII="
                   xml:space="preserve">decimal places that </text><text x="1021"
                   y="3600" clip-path="url(#clipPath26)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">should be integers</text><text x="1829"
+                  xml:space="preserve">should be integers</text><text x="1822"
                   y="3113" clip-path="url(#clipPath27)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 27</text><text x="1629" y="3113"
+                  xml:space="preserve">Score Data</text><text x="1634" y="3113"
                   clip-path="url(#clipPath28)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 29</text><text x="1137" y="650"
+                  xml:space="preserve">Predict</text><text x="1137" y="650"
                   clip-path="url(#clipPath29)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Correlation Between</text><text x="1167"
@@ -5486,28 +5499,34 @@ mzYZ+f/hTEBupv68onIjtN6rKNJKI+cPvWBnAUm4pk8AAAAASUVORK5CYII="
                   xml:space="preserve">General Statistics</text><text x="1362"
                   y="751" clip-path="url(#clipPath32)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Age</text><text x="1426" y="3113"
+                  xml:space="preserve">Age</text><text x="1420" y="3113"
                   clip-path="url(#clipPath33)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 100</text><text x="1726" y="3113"
+                  xml:space="preserve">Random 10</text><text x="1423" y="3128"
+                  clip-path="url(#clipPath33)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">validations</text><text x="1710" y="3113"
                   clip-path="url(#clipPath34)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 101</text><text x="1826" y="2813"
-                  clip-path="url(#clipPath35)" fill="black"
+                  xml:space="preserve">Aggregate Data</text><text x="1810"
+                  y="2813" clip-path="url(#clipPath35)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 102</text><text x="1526" y="2813"
+                  xml:space="preserve">Aggregate Data</text><text x="1519"
+                  y="2813" clip-path="url(#clipPath36)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">Random 10 </text><text x="1523" y="2828"
                   clip-path="url(#clipPath36)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 103</text><text x="1626" y="2933"
+                  xml:space="preserve">validations</text><text x="1631" y="2933"
                   clip-path="url(#clipPath37)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 107</text><text x="1726" y="2813"
+                  xml:space="preserve">Learner</text><text x="1719" y="2813"
                   clip-path="url(#clipPath38)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 108</text><text x="1926" y="2813"
-                  clip-path="url(#clipPath39)" fill="black"
+                  xml:space="preserve">Preditc Data</text><text x="1922"
+                  y="2813" clip-path="url(#clipPath39)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 109</text><text x="1521" y="2230"
+                  xml:space="preserve">Score Data</text><text x="1521" y="2230"
                   clip-path="url(#clipPath40)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Random Sampling</text><text x="1535"
@@ -5519,20 +5538,23 @@ mzYZ+f/hTEBupv68onIjtN6rKNJKI+cPvWBnAUm4pk8AAAAASUVORK5CYII="
                   xml:space="preserve">Aggregate Data</text><text x="1706"
                   y="1611" clip-path="url(#clipPath42)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 112</text><text x="1866" y="1691"
+                  xml:space="preserve">Node 112</text><text x="1859" y="1691"
                   clip-path="url(#clipPath43)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 113</text><text x="1624" y="2473"
-                  clip-path="url(#clipPath44)" fill="black"
+                  xml:space="preserve">Predict Data</text><text x="1624"
+                  y="2473" clip-path="url(#clipPath44)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">7 Clusters</text><text x="1979" y="2470"
                   clip-path="url(#clipPath45)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Weight Levels Visualization</text><text x="1426"
+                  xml:space="preserve">Weight Levels Visualization</text><text x="1431"
                   y="2813" clip-path="url(#clipPath46)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
-                  xml:space="preserve">Node 131</text><text x="1926" y="2233"
-                  clip-path="url(#clipPath47)" fill="black"
+                  xml:space="preserve">Min-Max</text><text x="1409" y="2828"
+                  clip-path="url(#clipPath46)" fill="black"
+                  font-family="&apos;Arial&apos;" stroke="none"
+                  xml:space="preserve">betweet 0 and 1</text><text x="1926"
+                  y="2233" clip-path="url(#clipPath47)" fill="black"
                   font-family="&apos;Arial&apos;" stroke="none"
                   xml:space="preserve">Set Rules</text><text x="2022" y="2233"
                   clip-path="url(#clipPath48)" fill="black"
@@ -5608,17 +5630,21 @@ mzYZ+f/hTEBupv68onIjtN6rKNJKI+cPvWBnAUm4pk8AAAAASUVORK5CYII="
                   xml:space="preserve" font-size="12px" y="4570"
                   clip-path="url(#clipPath73)" stroke="none">RowId</text><text x="1754"
                   xml:space="preserve" font-size="12px" y="3610"
-                  clip-path="url(#clipPath74)" stroke="none">Family History</text><text x="186"
+                  clip-path="url(#clipPath74)" stroke="none">Family History</text><text x="168"
                   xml:space="preserve" font-size="12px" y="2530"
-                  clip-path="url(#clipPath75)" stroke="none">Node 192</text><text x="1760"
+                  clip-path="url(#clipPath75)" stroke="none">Convert dates to</text><text x="166"
+                  xml:space="preserve" font-size="12px" y="2545"
+                  clip-path="url(#clipPath75)" stroke="none">actual Datetimes</text><text x="1760"
                   xml:space="preserve" font-size="12px" y="5050"
                   clip-path="url(#clipPath76)" stroke="none">Date of birth</text><text x="1123"
                   xml:space="preserve" font-size="12px" y="510"
                   clip-path="url(#clipPath77)" stroke="none">Age and Transport Means</text><text x="1165"
                   xml:space="preserve" font-size="12px" y="525"
-                  clip-path="url(#clipPath77)" stroke="none">Bar Graph</text><text x="1526"
+                  clip-path="url(#clipPath77)" stroke="none">Bar Graph</text><text x="1524"
                   xml:space="preserve" font-size="12px" y="3113"
-                  clip-path="url(#clipPath78)" stroke="none">Node 195</text><text x="1097"
+                  clip-path="url(#clipPath78)" stroke="none">Gini index,</text><text x="1520"
+                  xml:space="preserve" font-size="12px" y="3128"
+                  clip-path="url(#clipPath78)" stroke="none">no prunning</text><text x="1097"
                   xml:space="preserve" font-size="12px" y="2530"
                   clip-path="url(#clipPath79)" stroke="none">Remove AGE</text><text x="1100"
                   xml:space="preserve" font-size="12px" y="2545"
@@ -5672,15 +5698,15 @@ mzYZ+f/hTEBupv68onIjtN6rKNJKI+cPvWBnAUm4pk8AAAAASUVORK5CYII="
                   xml:space="preserve" font-size="12px" y="1909"
                   clip-path="url(#clipPath94)" stroke="none">into Strings</text><text x="2322"
                   xml:space="preserve" font-size="12px" y="1894"
-                  clip-path="url(#clipPath95)" stroke="none">Score Data</text><text x="1586"
+                  clip-path="url(#clipPath95)" stroke="none">Score Data</text><text x="1571"
                   xml:space="preserve" font-size="12px" y="1478"
-                  clip-path="url(#clipPath96)" stroke="none">Node 211</text><text x="1338"
+                  clip-path="url(#clipPath96)" stroke="none">Rede Neuronal</text><text x="1338"
                   xml:space="preserve" font-size="12px" y="1657"
                   clip-path="url(#clipPath97)" stroke="none">Convert field values </text><text x="1360"
                   xml:space="preserve" font-size="12px" y="1672"
-                  clip-path="url(#clipPath97)" stroke="none">to numbers.</text><text x="1467"
+                  clip-path="url(#clipPath97)" stroke="none">to numbers.</text><text x="1446"
                   xml:space="preserve" font-size="12px" y="1670"
-                  clip-path="url(#clipPath98)" stroke="none">Node 213</text><text x="1562"
+                  clip-path="url(#clipPath98)" stroke="none">Normalize values</text><text x="1562"
                   xml:space="preserve" font-size="12px" y="1670"
                   clip-path="url(#clipPath99)" stroke="none">Random Sampling</text><text x="1576"
                   xml:space="preserve" font-size="12px" y="1685"
@@ -9276,271 +9302,271 @@ mzYZ+f/hTEBupv68onIjtN6rKNJKI+cPvWBnAUm4pk8AAAAASUVORK5CYII="
            stroke-width="2" font-family="&apos;Segoe UI&apos;"
            stroke-linecap="butt" stroke="rgb(150,150,150)">
             <path fill="none"
-                  d="M1777 1961 C1779 1961 1783 1961 1785 1961 C1824 1961 1779 1832 1818 1832 C1820 1832 1824 1832 1826 1832"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1499 3517 1644 3437 1758 3437 C1760 3437 1764 3437 1766 3437"
                   fill-rule="evenodd" clip-path="url(#clipPath428)"/>
             <path fill="none"
-                  d="M1638 1626 C1640 1626 1644 1626 1646 1626 C1709 1626 1795 1648 1858 1648 C1860 1648 1864 1648 1866 1648"
+                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1282 2477 1301 2180 1418 2180 C1420 2180 1424 2180 1426 2180"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1429 2477 1094 1617 1358 1617 C1360 1617 1364 1617 1366 1617"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1607 3517 1536 4157 1758 4157 C1760 4157 1764 4157 1766 4157"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1217 337 C1219 337 1223 337 1225 337 C1258 337 1305 338 1338 338 C1340 338 1344 338 1346 338"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1499 3517 1644 3437 1758 3437 C1760 3437 1764 3437 1766 3437"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1945 3517 1198 5348 1758 5348 C1760 5348 1764 5348 1766 5348"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1237 3517 C1239 3517 1243 3517 1245 3517 C1266 3517 1297 3517 1318 3517 C1320 3517 1324 3517 1326 3517"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1477 2180 C1479 2180 1483 2180 1485 2180 C1500 2180 1523 2177 1538 2177 C1540 2177 1544 2177 1546 2177"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1576 3517 1567 4037 1758 4037 C1760 4037 1764 4037 1766 4037"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1637 1438 C1639 1438 1643 1438 1645 1438 C1681 1438 1662 1548 1698 1548 C1700 1548 1704 1548 1706 1548"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1817 3917 C1819 3917 1823 3917 1825 3917 C1835 3917 1848 3908 1858 3908 C1860 3908 1864 3908 1866 3908"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1910 3517 1233 5228 1758 5228 C1760 5228 1764 5228 1766 5228"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1817 3677 C1819 3677 1823 3677 1825 3677 C1835 3677 1848 3668 1858 3668 C1860 3668 1864 3668 1866 3668"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1917 1638 C1919 1638 1923 1638 1925 1638 C1932 1638 1931 1617 1938 1617 C1940 1617 1944 1617 1946 1617"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1597 2186 C1599 2186 1603 2186 1605 2186 C1638 2186 1685 2189 1718 2189 C1720 2189 1724 2189 1726 2189"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1278 2477 1305 2760 1418 2760 C1420 2760 1424 2760 1426 2760"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M237 2477 C239 2477 243 2477 245 2477 C464 2477 759 2477 978 2477 C980 2477 984 2477 986 2477"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1597 2168 C1599 2168 1603 2168 1605 2168 C1680 2168 1543 2420 1618 2420 C1620 2420 1624 2420 1626 2420"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1677 2430 C1679 2430 1683 2430 1685 2430 C1763 2430 1640 2170 1718 2170 C1720 2170 1724 2170 1726 2170"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M237 2477 C239 2477 243 2477 245 2477 C976 2477 427 217 1158 217 C1160 217 1164 217 1166 217"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1577 3060 C1579 3060 1583 3060 1585 3060 C1595 3060 1608 3050 1618 3050 C1620 3050 1624 3050 1626 3050"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1757 1558 C1759 1558 1763 1558 1765 1558 C1799 1558 1824 1628 1858 1628 C1860 1628 1864 1628 1866 1628"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1526 3517 1617 3808 1758 3808 C1760 3808 1764 3808 1766 3808"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1417 1617 C1419 1617 1423 1617 1425 1617 C1435 1617 1449 1617 1459 1617 C1461 1617 1465 1617 1467 1617"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M2077 1841 C2079 1841 2083 1841 2085 1841 C2094 1841 2109 1841 2118 1841 C2120 1841 2124 1841 2126 1841"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1638 1608 C1640 1608 1644 1608 1646 1608 C1665 1608 1679 1568 1698 1568 C1700 1568 1704 1568 1706 1568"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1777 2760 C1779 2760 1783 2760 1785 2760 C1794 2760 1809 2760 1818 2760 C1820 2760 1824 2760 1826 2760"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1097 3517 C1099 3517 1103 3517 1105 3517 C1126 3517 1157 3517 1178 3517 C1180 3517 1184 3517 1186 3517"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1817 4037 C1819 4037 1823 4037 1825 4037 C1835 4037 1848 4028 1858 4028 C1860 4028 1864 4028 1866 4028"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1877 2170 C1879 2170 1883 2170 1885 2170 C1925 2170 1878 2300 1918 2300 C1920 2300 1924 2300 1926 2300"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1370 2477 1213 1841 1418 1841 C1420 1841 1424 1841 1426 1841"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1497 3517 1646 3547 1758 3547 C1760 3547 1764 3547 1766 3547"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M1977 2300 C1979 2300 1983 2300 1985 2300 C1995 2300 2008 2290 2018 2290 C2020 2290 2024 2290 2026 2290"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1506 3517 1637 3677 1758 3677 C1760 3677 1764 3677 1766 3677"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1477 3050 C1479 3050 1483 3050 1485 3050 C1495 3050 1508 3060 1518 3060 C1520 3060 1524 3060 1526 3060"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M237 2477 C239 2477 243 2477 245 2477 C942 2477 461 337 1158 337 C1160 337 1164 337 1166 337"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1817 4157 C1819 4157 1823 4157 1825 4157 C1835 4157 1848 4148 1858 4148 C1860 4148 1864 4148 1866 4148"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1518 1608 C1520 1608 1524 1608 1526 1608 C1542 1608 1563 1617 1579 1617 C1581 1617 1585 1617 1587 1617"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1677 3060 C1679 3060 1683 3060 1685 3060 C1694 3060 1709 3060 1718 3060 C1720 3060 1724 3060 1726 3060"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M237 2477 C239 2477 243 2477 245 2477 C1009 2477 394 97 1158 97 C1160 97 1164 97 1166 97"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1477 2750 C1479 2750 1483 2750 1485 2750 C1495 2750 1508 2760 1518 2760 C1520 2760 1524 2760 1526 2760"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1877 2750 C1879 2750 1883 2750 1885 2750 C1895 2750 1908 2760 1918 2760 C1920 2760 1924 2760 1926 2760"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1875 3517 1268 5108 1758 5108 C1760 5108 1764 5108 1766 5108"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1777 3050 C1779 3050 1783 3050 1785 3050 C1795 3050 1808 3060 1818 3060 C1820 3060 1824 3060 1826 3060"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1477 3069 C1479 3069 1483 3069 1485 3069 C1523 3069 1510 3179 1548 3179 C1587 3179 1579 3069 1618 3069 C1620 3069 1624 3069 1626 3069"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1842 3517 1301 4997 1758 4997 C1760 4997 1764 4997 1766 4997"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M77 2477 C79 2477 83 2477 85 2477 C112 2477 151 2477 178 2477 C180 2477 184 2477 186 2477"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1355 2477 1228 3060 1418 3060 C1420 3060 1424 3060 1426 3060"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1577 2769 C1579 2769 1583 2769 1585 2769 C1624 2769 1679 2769 1718 2769 C1720 2769 1724 2769 1726 2769"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1817 2408 C1819 2408 1823 2408 1825 2408 C1841 2408 1862 2417 1878 2417 C1880 2417 1884 2417 1886 2417"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M2277 1841 C2279 1841 2283 1841 2285 1841 C2294 1841 2309 1841 2318 1841 C2320 1841 2324 1841 2326 1841"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M237 2477 C239 2477 243 2477 245 2477 C912 2477 491 448 1158 448 C1160 448 1164 448 1166 448"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1636 3517 1507 4268 1758 4268 C1760 4268 1764 4268 1766 4268"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1282 2477 1301 2180 1418 2180 C1420 2180 1424 2180 1426 2180"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1977 2180 C1979 2180 1983 2180 1985 2180 C1994 2180 2009 2180 2018 2180 C2020 2180 2024 2180 2026 2180"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1217 337 C1219 337 1223 337 1225 337 C1274 337 1289 458 1338 458 C1340 458 1344 458 1346 458"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1217 337 C1219 337 1223 337 1225 337 C1274 337 1289 218 1338 218 C1340 218 1344 218 1346 218"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1217 337 C1219 337 1223 337 1225 337 C1373 337 1190 818 1338 818 C1340 818 1344 818 1346 818"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1677 1850 C1679 1850 1683 1850 1685 1850 C1724 1850 1779 1850 1818 1850 C1820 1850 1824 1850 1826 1850"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1937 2408 C1939 2408 1943 2408 1945 2408 C1967 2408 1996 2417 2018 2417 C2020 2417 2024 2417 2026 2417"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1577 2750 C1579 2750 1583 2750 1585 2750 C1625 2750 1578 2880 1618 2880 C1620 2880 1624 2880 1626 2880"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1877 1841 C1879 1841 1883 1841 1885 1841 C1894 1841 1909 1841 1918 1841 C1920 1841 1924 1841 1926 1841"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1217 337 C1219 337 1223 337 1225 337 C1304 337 1259 98 1338 98 C1340 98 1344 98 1346 98"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1773 3517 1370 4757 1758 4757 C1760 4757 1764 4757 1766 4757"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1817 3437 C1819 3437 1823 3437 1825 3437 C1835 3437 1848 3428 1858 3428 C1860 3428 1864 3428 1866 3428"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1705 3517 1438 4517 1758 4517 C1760 4517 1764 4517 1766 4517"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1577 1832 C1579 1832 1583 1832 1585 1832 C1595 1832 1608 1841 1618 1841 C1620 1841 1624 1841 1626 1841"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1477 1841 C1479 1841 1483 1841 1485 1841 C1494 1841 1509 1841 1518 1841 C1520 1841 1524 1841 1526 1841"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1777 2180 C1779 2180 1783 2180 1785 2180 C1794 2180 1809 2180 1818 2180 C1820 2180 1824 2180 1826 2180"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1497 3517 1646 3548 1758 3548 C1760 3548 1764 3548 1766 3548"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1739 3517 1404 4637 1758 4637 C1760 4637 1764 4637 1766 4637"
-                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
-            <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1671 3517 1472 4397 1758 4397 C1760 4397 1764 4397 1766 4397"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1945 3517 1198 5347 1758 5347 C1760 5347 1764 5347 1766 5347"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M1217 337 C1219 337 1223 337 1225 337 C1338 337 1225 698 1338 698 C1340 698 1344 698 1346 698"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1997 1608 C1999 1608 2003 1608 2005 1608 C2040 1608 2068 1540 2103 1540 C2105 1540 2109 1540 2111 1540"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1671 3517 1472 4397 1758 4397 C1760 4397 1764 4397 1766 4397"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1980 3517 1163 5468 1758 5468 C1760 5468 1764 5468 1766 5468"
+                  d="M1817 4037 C1819 4037 1823 4037 1825 4037 C1835 4037 1848 4027 1858 4027 C1860 4027 1864 4027 1866 4027"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1217 337 C1219 337 1223 337 1225 337 C1304 337 1259 578 1338 578 C1340 578 1344 578 1346 578"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1980 3517 1163 5467 1758 5467 C1760 5467 1764 5467 1766 5467"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1518 1607 C1520 1607 1524 1607 1526 1607 C1542 1607 1563 1617 1579 1617 C1581 1617 1585 1617 1587 1617"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M237 2477 C239 2477 243 2477 245 2477 C976 2477 427 217 1158 217 C1160 217 1164 217 1166 217"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1877 1841 C1879 1841 1883 1841 1885 1841 C1894 1841 1909 1841 1918 1841 C1920 1841 1924 1841 1926 1841"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1937 2407 C1939 2407 1943 2407 1945 2407 C1967 2407 1996 2417 2018 2417 C2020 2417 2024 2417 2026 2417"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M237 2477 C239 2477 243 2477 245 2477 C871 2477 532 597 1158 597 C1160 597 1164 597 1166 597"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1217 337 C1219 337 1223 337 1225 337 C1373 337 1190 818 1338 818 C1340 818 1344 818 1346 818"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1429 2477 1094 1617 1358 1617 C1360 1617 1364 1617 1366 1617"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1874 3517 1269 5107 1758 5107 C1760 5107 1764 5107 1766 5107"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1506 3517 1637 3677 1758 3677 C1760 3677 1764 3677 1766 3677"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1097 3517 C1099 3517 1103 3517 1105 3517 C1126 3517 1157 3517 1178 3517 C1180 3517 1184 3517 1186 3517"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1370 2477 1213 1841 1418 1841 C1420 1841 1424 1841 1426 1841"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M237 2477 C239 2477 243 2477 245 2477 C637 2477 646 3517 1038 3517 C1040 3517 1044 3517 1046 3517"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M2077 1841 C2079 1841 2083 1841 2085 1841 C2121 1841 2082 1957 2118 1957 C2120 1957 2124 1957 2126 1957"
+                  d="M1597 2186 C1599 2186 1603 2186 1605 2186 C1638 2186 1685 2190 1718 2190 C1720 2190 1724 2190 1726 2190"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1677 1832 C1679 1832 1683 1832 1685 1832 C1724 1832 1679 1961 1718 1961 C1720 1961 1724 1961 1726 1961"
+                  d="M1997 1607 C1999 1607 2003 1607 2005 1607 C2040 1607 2069 1540 2104 1540 C2106 1540 2110 1540 2112 1540"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M2177 1841 C2179 1841 2183 1841 2185 1841 C2194 1841 2209 1841 2218 1841 C2220 1841 2224 1841 2226 1841"
+                  d="M1577 2770 C1579 2770 1583 2770 1585 2770 C1624 2770 1679 2770 1718 2770 C1720 2770 1724 2770 1726 2770"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1805 3517 1338 4868 1758 4868 C1760 4868 1764 4868 1766 4868"
+                  d="M237 2477 C239 2477 243 2477 245 2477 C942 2477 461 337 1158 337 C1160 337 1164 337 1166 337"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1577 1850 C1579 1850 1583 1850 1585 1850 C1656 1850 1575 2079 1646 2079 C1736 2079 1856 2079 1946 2079 C2023 2079 1941 1832 2018 1832 C2020 1832 2024 1832 2026 1832"
+                  d="M1817 3917 C1819 3917 1823 3917 1825 3917 C1835 3917 1848 3907 1858 3907 C1860 3907 1864 3907 1866 3907"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1549 3517 1594 3917 1758 3917 C1760 3917 1764 3917 1766 3917"
+                  d="M237 2477 C239 2477 243 2477 245 2477 C464 2477 759 2477 978 2477 C980 2477 984 2477 986 2477"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1977 1832 C1979 1832 1983 1832 1985 1832 C1996 1832 2007 1850 2018 1850 C2020 1850 2024 1850 2026 1850"
+                  d="M1777 2760 C1779 2760 1783 2760 1785 2760 C1794 2760 1809 2760 1818 2760 C1820 2760 1824 2760 1826 2760"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1677 2870 C1679 2870 1683 2870 1685 2870 C1722 2870 1681 2750 1718 2750 C1720 2750 1724 2750 1726 2750"
+                  d="M1757 1558 C1759 1558 1763 1558 1765 1558 C1799 1558 1824 1628 1858 1628 C1860 1628 1864 1628 1866 1628"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1677 2410 C1679 2410 1683 2410 1685 2410 C1707 2410 1736 2417 1758 2417 C1760 2417 1764 2417 1766 2417"
+                  d="M1638 1626 C1640 1626 1644 1626 1646 1626 C1709 1626 1795 1647 1858 1647 C1860 1647 1864 1647 1866 1647"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M1037 2477 C1039 2477 1043 2477 1045 2477 C1060 2477 1083 2477 1098 2477 C1100 2477 1104 2477 1106 2477"
+                  d="M1817 2407 C1819 2407 1823 2407 1825 2407 C1841 2407 1862 2417 1878 2417 C1880 2417 1884 2417 1886 2417"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
                   d="M1877 2170 C1879 2170 1883 2170 1885 2170 C1895 2170 1908 2180 1918 2180 C1920 2180 1924 2180 1926 2180"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
             <path fill="none"
-                  d="M237 2477 C239 2477 243 2477 245 2477 C871 2477 532 597 1158 597 C1160 597 1164 597 1166 597"
+                  d="M1577 1831 C1579 1831 1583 1831 1585 1831 C1595 1831 1608 1841 1618 1841 C1620 1841 1624 1841 1626 1841"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1877 2750 C1879 2750 1883 2750 1885 2750 C1895 2750 1908 2760 1918 2760 C1920 2760 1924 2760 1926 2760"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1677 1850 C1679 1850 1683 1850 1685 1850 C1724 1850 1779 1850 1818 1850 C1820 1850 1824 1850 1826 1850"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M2077 1841 C2079 1841 2083 1841 2085 1841 C2121 1841 2082 1957 2118 1957 C2120 1957 2124 1957 2126 1957"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1526 3517 1617 3807 1758 3807 C1760 3807 1764 3807 1766 3807"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1705 3517 1438 4517 1758 4517 C1760 4517 1764 4517 1766 4517"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1977 2180 C1979 2180 1983 2180 1985 2180 C1994 2180 2009 2180 2018 2180 C2020 2180 2024 2180 2026 2180"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1237 3517 C1239 3517 1243 3517 1245 3517 C1266 3517 1297 3517 1318 3517 C1320 3517 1324 3517 1326 3517"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1910 3517 1233 5227 1758 5227 C1760 5227 1764 5227 1766 5227"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1777 2180 C1779 2180 1783 2180 1785 2180 C1794 2180 1809 2180 1818 2180 C1820 2180 1824 2180 1826 2180"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1677 2430 C1679 2430 1683 2430 1685 2430 C1763 2430 1640 2170 1718 2170 C1720 2170 1724 2170 1726 2170"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1636 3517 1507 4267 1758 4267 C1760 4267 1764 4267 1766 4267"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1677 1831 C1679 1831 1683 1831 1685 1831 C1725 1831 1678 1961 1718 1961 C1720 1961 1724 1961 1726 1961"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1805 3517 1338 4867 1758 4867 C1760 4867 1764 4867 1766 4867"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1638 1607 C1640 1607 1644 1607 1646 1607 C1665 1607 1679 1567 1698 1567 C1700 1567 1704 1567 1706 1567"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1549 3517 1594 3917 1758 3917 C1760 3917 1764 3917 1766 3917"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1217 337 C1219 337 1223 337 1225 337 C1258 337 1305 338 1338 338 C1340 338 1344 338 1346 338"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1773 3517 1370 4757 1758 4757 C1760 4757 1764 4757 1766 4757"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1777 3050 C1779 3050 1783 3050 1785 3050 C1795 3050 1808 3060 1818 3060 C1820 3060 1824 3060 1826 3060"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M237 2477 C239 2477 243 2477 245 2477 C1009 2477 394 97 1158 97 C1160 97 1164 97 1166 97"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1355 2477 1228 3060 1418 3060 C1420 3060 1424 3060 1426 3060"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1477 2180 C1479 2180 1483 2180 1485 2180 C1500 2180 1523 2177 1538 2177 C1540 2177 1544 2177 1546 2177"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1817 4157 C1819 4157 1823 4157 1825 4157 C1835 4157 1848 4147 1858 4147 C1860 4147 1864 4147 1866 4147"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1577 2750 C1579 2750 1583 2750 1585 2750 C1625 2750 1578 2880 1618 2880 C1620 2880 1624 2880 1626 2880"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1577 1850 C1579 1850 1583 1850 1585 1850 C1656 1850 1575 2079 1646 2079 C1736 2079 1856 2079 1946 2079 C2023 2079 1941 1831 2018 1831 C2020 1831 2024 1831 2026 1831"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1477 2750 C1479 2750 1483 2750 1485 2750 C1495 2750 1508 2760 1518 2760 C1520 2760 1524 2760 1526 2760"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M237 2477 C239 2477 243 2477 245 2477 C912 2477 491 447 1158 447 C1160 447 1164 447 1166 447"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1037 2477 C1039 2477 1043 2477 1045 2477 C1060 2477 1083 2477 1098 2477 C1100 2477 1104 2477 1106 2477"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1417 1617 C1419 1617 1423 1617 1425 1617 C1435 1617 1449 1617 1459 1617 C1461 1617 1465 1617 1467 1617"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1637 1438 C1639 1438 1643 1438 1645 1438 C1681 1438 1662 1548 1698 1548 C1700 1548 1704 1548 1706 1548"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1597 2167 C1599 2167 1603 2167 1605 2167 C1681 2167 1542 2420 1618 2420 C1620 2420 1624 2420 1626 2420"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1817 3677 C1819 3677 1823 3677 1825 3677 C1835 3677 1848 3667 1858 3667 C1860 3667 1864 3667 1866 3667"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1777 1961 C1779 1961 1783 1961 1785 1961 C1825 1961 1778 1831 1818 1831 C1820 1831 1824 1831 1826 1831"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1977 1831 C1979 1831 1983 1831 1985 1831 C1996 1831 2007 1850 2018 1850 C2020 1850 2024 1850 2026 1850"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1217 337 C1219 337 1223 337 1225 337 C1274 337 1289 218 1338 218 C1340 218 1344 218 1346 218"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1677 2410 C1679 2410 1683 2410 1685 2410 C1707 2410 1736 2417 1758 2417 C1760 2417 1764 2417 1766 2417"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1842 3517 1301 4997 1758 4997 C1760 4997 1764 4997 1766 4997"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1576 3517 1567 4037 1758 4037 C1760 4037 1764 4037 1766 4037"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1677 2870 C1679 2870 1683 2870 1685 2870 C1722 2870 1681 2750 1718 2750 C1720 2750 1724 2750 1726 2750"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1217 337 C1219 337 1223 337 1225 337 C1274 337 1289 458 1338 458 C1340 458 1344 458 1346 458"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1217 337 C1219 337 1223 337 1225 337 C1304 337 1259 98 1338 98 C1340 98 1344 98 1346 98"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1477 3050 C1479 3050 1483 3050 1485 3050 C1495 3050 1508 3060 1518 3060 C1520 3060 1524 3060 1526 3060"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1917 1638 C1919 1638 1923 1638 1925 1638 C1932 1638 1931 1617 1938 1617 C1940 1617 1944 1617 1946 1617"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M2177 1841 C2179 1841 2183 1841 2185 1841 C2194 1841 2209 1841 2218 1841 C2220 1841 2224 1841 2226 1841"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1877 2170 C1879 2170 1883 2170 1885 2170 C1925 2170 1878 2300 1918 2300 C1920 2300 1924 2300 1926 2300"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1577 3060 C1579 3060 1583 3060 1585 3060 C1595 3060 1608 3050 1618 3050 C1620 3050 1624 3050 1626 3050"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1739 3517 1404 4637 1758 4637 C1760 4637 1764 4637 1766 4637"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M2077 1841 C2079 1841 2083 1841 2085 1841 C2094 1841 2109 1841 2118 1841 C2120 1841 2124 1841 2126 1841"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1377 3517 C1379 3517 1383 3517 1385 3517 C1607 3517 1536 4157 1758 4157 C1760 4157 1764 4157 1766 4157"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1477 1841 C1479 1841 1483 1841 1485 1841 C1494 1841 1509 1841 1518 1841 C1520 1841 1524 1841 1526 1841"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1217 337 C1219 337 1223 337 1225 337 C1304 337 1259 578 1338 578 C1340 578 1344 578 1346 578"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M2277 1841 C2279 1841 2283 1841 2285 1841 C2294 1841 2309 1841 2318 1841 C2320 1841 2324 1841 2326 1841"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1677 3060 C1679 3060 1683 3060 1685 3060 C1694 3060 1709 3060 1718 3060 C1720 3060 1724 3060 1726 3060"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1157 2477 C1159 2477 1163 2477 1165 2477 C1278 2477 1305 2760 1418 2760 C1420 2760 1424 2760 1426 2760"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M77 2477 C79 2477 83 2477 85 2477 C112 2477 151 2477 178 2477 C180 2477 184 2477 186 2477"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1817 3437 C1819 3437 1823 3437 1825 3437 C1835 3437 1848 3427 1858 3427 C1860 3427 1864 3427 1866 3427"
+                  clip-path="url(#clipPath428)" fill-rule="evenodd"/>
+            <path fill="none"
+                  d="M1477 3070 C1479 3070 1483 3070 1485 3070 C1522 3070 1511 3179 1548 3179 C1586 3179 1580 3070 1618 3070 C1620 3070 1624 3070 1626 3070"
                   clip-path="url(#clipPath428)" fill-rule="evenodd"/>
         </g>
     </g>
