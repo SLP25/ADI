@@ -76,8 +76,8 @@
     <config key="nodeAnnotation">
         <entry key="text" type="xstring" value="Normalize price and%%00013%%00010kmsdriven values."/>
         <entry key="bgcolor" type="xint" value="16777215"/>
-        <entry key="x-coordinate" type="xint" value="794"/>
-        <entry key="y-coordinate" type="xint" value="1600"/>
+        <entry key="x-coordinate" type="xint" value="453"/>
+        <entry key="y-coordinate" type="xint" value="1639"/>
         <entry key="width" type="xint" value="134"/>
         <entry key="height" type="xint" value="36"/>
         <entry key="alignment" type="xstring" value="CENTER"/>
@@ -89,6 +89,10 @@
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
+    <config key="nodecontainer_message">
+        <entry key="type" type="xstring" value="WARNING"/>
+        <entry key="message" type="xstring" value="Exceptions in the code caused missing rows to be output.%%00010Check log for details."/>
+    </config>
     <entry key="factory" type="xstring" value="org.knime.base.node.jsnippet.JavaSnippetNodeFactory"/>
     <entry key="node-name" type="xstring" value="Java Snippet"/>
     <entry key="node-bundle-name" type="xstring" value="KNIME Java Snippet Nodes"/>
@@ -108,12 +112,12 @@
             <entry key="index" type="xint" value="1"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 816, Cols: 6"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 857, Cols: 6"/>
             <entry key="port_dir_location" type="xstring" value="port_1"/>
         </config>
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="1f91f9d3-c80d-471b-a702-5b3fad467c38"/>
+        <entry key="file_store_id" type="xstring" value="6789b28c-2fec-4a2a-bb31-e8af19ced262"/>
     </config>
 </config>

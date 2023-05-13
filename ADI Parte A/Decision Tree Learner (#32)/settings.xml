@@ -15,7 +15,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="splitQualityMeasure" type="xstring" value="Gain ratio"/>
+        <entry key="splitQualityMeasure" type="xstring" value="Gini index"/>
         <config key="pruningMethod_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
@@ -30,7 +30,7 @@
             <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>
         </config>
-        <entry key="minNumberRecordsPerNode" type="xint" value="2"/>
+        <entry key="minNumberRecordsPerNode" type="xint" value="150"/>
         <config key="numverRecordsToView_Internals">
             <entry key="SettingsModelID" type="xstring" value="SMID_integer"/>
             <entry key="EnabledStatus" type="xboolean" value="true"/>

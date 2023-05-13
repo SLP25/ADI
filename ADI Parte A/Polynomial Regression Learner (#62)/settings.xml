@@ -6,19 +6,22 @@
         <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
     </config>
     <config key="model">
-        <entry key="degree" type="xint" value="2"/>
+        <entry key="degree" type="xint" value="10"/>
         <entry key="targetColumn" type="xstring" value="Price"/>
         <entry key="maxViewRows" type="xint" value="10000"/>
         <entry key="missing_value_handling" type="xstring" value="fail"/>
         <config key="column filter">
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
-                <entry key="array-size" type="xint" value="2"/>
-                <entry key="0" type="xstring" value="Year"/>
-                <entry key="1" type="xstring" value="Kms driven"/>
+                <entry key="array-size" type="xint" value="4"/>
+                <entry key="0" type="xstring" value="Company name"/>
+                <entry key="1" type="xstring" value="Name of car"/>
+                <entry key="2" type="xstring" value="Year"/>
+                <entry key="3" type="xstring" value="Kms driven"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="0"/>
+                <entry key="array-size" type="xint" value="1"/>
+                <entry key="0" type="xstring" value="fuel_type"/>
             </config>
             <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
             <config key="name_pattern">
@@ -29,6 +32,7 @@
             </config>
             <config key="datatype">
                 <config key="typelist">
+                    <entry key="org.knime.core.data.IntValue" type="xboolean" value="false"/>
                     <entry key="org.knime.core.data.DoubleValue" type="xboolean" value="false"/>
                 </config>
             </config>
@@ -64,14 +68,14 @@
             <entry key="index" type="xint" value="2"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 735, Cols: 7"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 772, Cols: 8"/>
             <entry key="port_dir_location" type="xstring" value="port_2"/>
         </config>
         <config key="port_3">
             <entry key="index" type="xint" value="3"/>
             <entry key="port_spec_class" type="xstring" value="org.knime.core.data.DataTableSpec"/>
             <entry key="port_object_class" type="xstring" value="org.knime.core.node.BufferedDataTable"/>
-            <entry key="port_object_summary" type="xstring" value="Rows: 5, Cols: 6"/>
+            <entry key="port_object_summary" type="xstring" value="Rows: 41, Cols: 6"/>
             <entry key="port_dir_location" type="xstring" value="port_3"/>
         </config>
     </config>
